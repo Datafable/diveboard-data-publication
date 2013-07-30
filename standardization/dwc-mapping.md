@@ -4,22 +4,22 @@
 
 DwC term | status
 --- | ---
-type | `Event`
-modified | 
-language | `en`
-rights | 
-rightsHolder | 
+type | use
+modified | use
+language | use
+rights | use
+rightsHolder | use
 accessRights | 
-bibliographicCitation | 
-references | 
-institutionID | 
-collectionID | 
-datasetID | 
-institutionCode | 
-collectionCode | 
-datasetName | 
-ownerInstitutionCode | 
-basisOfRecord | 
+bibliographicCitation | use
+references | use
+institutionID | n/a
+collectionID | n/a
+datasetID | use
+institutionCode | use
+collectionCode | n/a
+datasetName | use
+ownerInstitutionCode | use
+basisOfRecord | use
 informationWithheld | 
 dataGeneralizations | 
 dynamicProperties | 
@@ -28,28 +28,28 @@ dynamicProperties |
 
 DwC term | status
 --- | ---
-occurrenceID | 
+occurrenceID | use
 catalogNumber | 
 occurrenceRemarks | 
 recordNumber | 
-recordedBy | 
-individualID | 
-individualCount | 
-sex | 
-lifeStage | 
-reproductiveCondition | 
+recordedBy | use
+individualID | n/a
+individualCount | use
+sex | use
+lifeStage | use
+reproductiveCondition | n/a
 behavior | 
-establishmentMeans | 
-occurrenceStatus | 
-preparations | 
-disposition | 
-otherCatalogNumbers | 
-previousIdentifications | 
+establishmentMeans | n/a
+occurrenceStatus | n/a
+preparations | n/a
+disposition | n/a
+otherCatalogNumbers | n/a
+previousIdentifications | n/a
 associatedMedia | 
-associatedReferences | 
+associatedReferences | n/a
 associatedOccurrences | 
-associatedSequences | 
-associatedTaxa | 
+associatedSequences | n/a
+associatedTaxa | n/a
 
 ## Event
 
@@ -58,14 +58,14 @@ DwC term | status
 eventID | 
 samplingProtocol | 
 samplingEffort | 
-eventDate | 
-eventTime | 
-startDayOfYear | 
-endDayOfYear | 
-year | 
-month | 
-day | 
-verbatimEventDate | 
+eventDate | use
+eventTime | use
+startDayOfYear | unnecessary
+endDayOfYear | unnecessary
+year | unnecessary
+month | unnecessary 
+day | unnecessary
+verbatimEventDate | unnecessary
 habitat | 
 fieldNumber | 
 fieldNotes | 
@@ -75,44 +75,44 @@ eventRemarks |
 
 DwC term | status
 --- | ---
-locationID | 
+locationID | use
 higherGeographyID | 
 higherGeography | 
 continent | 
-waterBody | 
+waterBody | use
 islandGroup | 
 island | 
-country | 
+country | use
 countryCode | 
 stateProvince | 
-county | 
-municipality | 
-locality | 
-verbatimLocality | 
-verbatimElevation | 
-minimumElevationInMeters | 
-maximumElevationInMeters | 
-verbatimDepth | 
-minimumDepthInMeters | 
-maximumDepthInMeters | 
-minimumDistanceAboveSurfaceInMeters | 
-maximumDistanceAboveSurfaceInMeters | 
-locationAccordingTo | 
-locationRemarks | 
-verbatimCoordinates | 
-verbatimLatitude | 
-verbatimLongitude | 
-verbatimCoordinateSystem | 
-verbatimSRS | 
-decimalLatitude | 
-decimalLongitude | 
-geodeticDatum | 
-coordinateUncertaintyInMeters | 
-coordinatePrecision | 
-pointRadiusSpatialFit | 
-footprintWKT | 
-footprintSRS | 
-footprintSpatialFit | 
+county | n/a
+municipality | n/a
+locality | use
+verbatimLocality | unnecessary
+verbatimElevation | n/a
+minimumElevationInMeters | n/a
+maximumElevationInMeters | n/a 
+verbatimDepth | unnecessary
+minimumDepthInMeters | use
+maximumDepthInMeters | use
+minimumDistanceAboveSurfaceInMeters | n/a
+maximumDistanceAboveSurfaceInMeters | n/a
+locationAccordingTo | n/a
+locationRemarks | n/a
+verbatimCoordinates | unnecessary
+verbatimLatitude | unnecessary
+verbatimLongitude | unnecessary
+verbatimCoordinateSystem | unnecessary
+verbatimSRS | unnecessary
+decimalLatitude | use
+decimalLongitude | use
+geodeticDatum | use
+coordinateUncertaintyInMeters | use
+coordinatePrecision | unnecessary
+pointRadiusSpatialFit | unnecessary
+footprintWKT | unnecessary
+footprintSRS | unnecessary
+footprintSpatialFit | unnecessary
 georeferencedBy | 
 georeferencedDate | 
 georeferenceProtocol | 
@@ -124,14 +124,14 @@ georeferenceRemarks |
 
 DwC term | status
 --- | ---
-identificationID | 
+identificationID | n/a
 identifiedBy | 
 dateIdentified | 
 identificationReferences | 
 identificationVerificationStatus | 
 identificationRemarks | 
-identificationQualifier | 
-typeStatus | 
+identificationQualifier | n/a
+typeStatus | n/a
 
 ## Geological context
 
@@ -141,39 +141,39 @@ n/a
 
 DwC term | status
 --- | ---
-taxonID | 
-scientificNameID | 
-acceptedNameUsageID | 
-parentNameUsageID | 
-originalNameUsageID | 
-nameAccordingToID | 
-namePublishedInID | 
-taxonConceptID | 
-scientificName | 
-acceptedNameUsage | 
-parentNameUsage | 
-originalNameUsage | 
-nameAccordingTo | 
-namePublishedIn | 
-namePublishedInYear | 
-higherClassification | 
-kingdom | 
+taxonID | n/a
+scientificNameID | n/a
+acceptedNameUsageID | n/a 
+parentNameUsageID | n/a
+originalNameUsageID | n/a
+nameAccordingToID | n/a
+namePublishedInID | n/a
+taxonConceptID | n/a
+scientificName | use
+acceptedNameUsage | unnecessary
+parentNameUsage | n/a
+originalNameUsage | n/a
+nameAccordingTo | n/a
+namePublishedIn | n/a
+namePublishedInYear | n/a
+higherClassification | unnecessary
+kingdom | use
 phylum | 
 class | 
 order | 
 family | 
-genus | 
-subgenus | 
-specificEpithet | 
-infraspecificEpithet | 
-taxonRank | 
-verbatimTaxonRank | 
-scientificNameAuthorship | 
+genus | use
+subgenus | unnecessary
+specificEpithet | use
+infraspecificEpithet | use
+taxonRank | use
+verbatimTaxonRank | unnecessary
+scientificNameAuthorship | use
 vernacularName | 
 nomenclaturalCode | 
-taxonomicStatus | 
-nomenclaturalStatus | 
-taxonRemarks | 
+taxonomicStatus | n/a
+nomenclaturalStatus | n/a
+taxonRemarks | n/a
 
 ## Resource relationship
 
