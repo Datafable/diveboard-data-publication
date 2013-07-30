@@ -1,24 +1,53 @@
 # Darwin Core mapping
 
-category | dwc term | mapping
---- | --- | ---
-Occurrence  | occurrenceID | 
-root	| type | `Event`
-root	| modified | 
-root	| language | `en`
-root	| rights | 
-root	| rightsHolder | 
-root	| accessRights | 
-root	| bibliographicCitation | 
-root	| references | 
-root	| institutionID | 
-root	| collectionID | 
-root	| datasetID | 
-root	| institutionCode | 
-root	| collectionCode | 
-root	| datasetName | 
-root	| ownerInstitutionCode | 
-root	| basisOfRecord | 
-root	| informationWithheld | 
-root	| dataGeneralizations | 
-root	| dynamicProperties | 
+## Root
+
+dwc term | mapping
+--- | ---
+type | `Event`
+modified | 
+language | `en`
+rights | 
+rightsHolder | 
+accessRights | 
+bibliographicCitation | 
+references | 
+institutionID | 
+collectionID | 
+datasetID | 
+institutionCode | 
+collectionCode | 
+datasetName | 
+ownerInstitutionCode | 
+basisOfRecord | 
+informationWithheld | 
+dataGeneralizations | 
+dynamicProperties | 
+
+## Occurrence
+
+dwc term | mapping
+--- | ---
+occurrenceID | 
+catalogNumber | 
+occurrenceDetails | 
+occurrenceRemarks | 
+recordNumber | 
+recordedBy | 
+individualID | 
+individualCount | 
+sex | 
+lifeStage | 
+reproductiveCondition | 
+behavior | 
+establishmentMeans | 
+occurrenceStatus | 
+preparations | 
+disposition | 
+otherCatalogNumbers | 
+previousIdentifications | 
+associatedMedia | 
+associatedReferences | 
+associatedOccurrences | 
+associatedSequences | 
+associatedTaxa | 
