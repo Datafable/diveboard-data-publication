@@ -12,11 +12,11 @@ rightsHolder | use
 accessRights | 
 bibliographicCitation | use
 references | use
-institutionID | n/a
-collectionID | n/a
+institutionID | -
+collectionID | -
 datasetID | use
 institutionCode | use
-collectionCode | n/a
+collectionCode | -
 datasetName | use
 ownerInstitutionCode | use
 basisOfRecord | use
@@ -33,23 +33,23 @@ catalogNumber |
 occurrenceRemarks | 
 recordNumber | 
 recordedBy | use
-individualID | n/a
+individualID | -
 individualCount | use
 sex | use
 lifeStage | use
-reproductiveCondition | n/a
+reproductiveCondition | -
 behavior | 
-establishmentMeans | n/a
-occurrenceStatus | n/a
-preparations | n/a
-disposition | n/a
-otherCatalogNumbers | n/a
-previousIdentifications | n/a
+establishmentMeans | -
+occurrenceStatus | -
+preparations | -
+disposition | -
+otherCatalogNumbers | -
+previousIdentifications | -
 associatedMedia | 
-associatedReferences | n/a
+associatedReferences | -
 associatedOccurrences | 
-associatedSequences | n/a
-associatedTaxa | n/a
+associatedSequences | -
+associatedTaxa | -
 
 ## Event
 
@@ -85,20 +85,20 @@ island |
 country | use
 countryCode | 
 stateProvince | 
-county | n/a
-municipality | n/a
+county | -
+municipality | -
 locality | use
 verbatimLocality | unnecessary
-verbatimElevation | n/a
-minimumElevationInMeters | n/a
-maximumElevationInMeters | n/a 
+verbatimElevation | -
+minimumElevationInMeters | -
+maximumElevationInMeters | - 
 verbatimDepth | unnecessary
 minimumDepthInMeters | use
 maximumDepthInMeters | use
-minimumDistanceAboveSurfaceInMeters | n/a
-maximumDistanceAboveSurfaceInMeters | n/a
-locationAccordingTo | n/a
-locationRemarks | n/a
+minimumDistanceAboveSurfaceInMeters | -
+maximumDistanceAboveSurfaceInMeters | -
+locationAccordingTo | -
+locationRemarks | -
 verbatimCoordinates | unnecessary
 verbatimLatitude | unnecessary
 verbatimLongitude | unnecessary
@@ -124,38 +124,38 @@ georeferenceRemarks |
 
 DwC term | status
 --- | ---
-identificationID | n/a
+identificationID | -
 identifiedBy | 
 dateIdentified | 
 identificationReferences | 
 identificationVerificationStatus | 
 identificationRemarks | 
-identificationQualifier | n/a
-typeStatus | n/a
+identificationQualifier | -
+typeStatus | -
 
 ## Geological context
 
-n/a
+-
 
 ## Taxon
 
 DwC term | status
 --- | ---
-taxonID | n/a
-scientificNameID | n/a
-acceptedNameUsageID | n/a 
-parentNameUsageID | n/a
-originalNameUsageID | n/a
-nameAccordingToID | n/a
-namePublishedInID | n/a
-taxonConceptID | n/a
+taxonID | -
+scientificNameID | -
+acceptedNameUsageID | - 
+parentNameUsageID | -
+originalNameUsageID | -
+nameAccordingToID | -
+namePublishedInID | -
+taxonConceptID | -
 scientificName | use
 acceptedNameUsage | unnecessary
-parentNameUsage | n/a
-originalNameUsage | n/a
-nameAccordingTo | n/a
-namePublishedIn | n/a
-namePublishedInYear | n/a
+parentNameUsage | -
+originalNameUsage | -
+nameAccordingTo | -
+namePublishedIn | -
+namePublishedInYear | -
 higherClassification | unnecessary
 kingdom | use
 phylum | 
@@ -171,13 +171,13 @@ verbatimTaxonRank | unnecessary
 scientificNameAuthorship | use
 vernacularName | 
 nomenclaturalCode | 
-taxonomicStatus | n/a
-nomenclaturalStatus | n/a
-taxonRemarks | n/a
+taxonomicStatus | -
+nomenclaturalStatus | -
+taxonRemarks | -
 
 ## Resource relationship
 
-n/a
+-
 
 ## Measurement or fact
 
