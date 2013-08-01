@@ -2,41 +2,41 @@
 
 ## Root
 
-DwC term | status
+DwC term | Status
 --- | ---
-type | use
-modified | use
-language | use
-rights | use
-rightsHolder | use
+type | add
+modified | suggested
+language | add
+rights | add
+rightsHolder | add
 accessRights | 
-bibliographicCitation | use
-references | use
+bibliographicCitation | suggested
+references | suggested
 institutionID | -
 collectionID | -
-datasetID | use
-institutionCode | use
+datasetID | add
+institutionCode | suggested
 collectionCode | -
-datasetName | use
-ownerInstitutionCode | use
-basisOfRecord | use
+datasetName | add
+ownerInstitutionCode | add
+basisOfRecord | suggested
 informationWithheld | 
 dataGeneralizations | 
 dynamicProperties | 
 
 ## Occurrence
 
-DwC term | status
+DwC term | Status
 --- | ---
-occurrenceID | use
+occurrenceID | suggested
 catalogNumber | 
-occurrenceRemarks | 
-recordNumber | 
-recordedBy | use
+occurrenceRemarks | suggested
+recordNumber | -
+recordedBy | suggested
 individualID | -
-individualCount | use
-sex | use
-lifeStage | use
+individualCount | suggested
+sex | suggested
+lifeStage | suggested
 reproductiveCondition | -
 behavior | 
 establishmentMeans | -
@@ -45,74 +45,74 @@ preparations | -
 disposition | -
 otherCatalogNumbers | -
 previousIdentifications | -
-associatedMedia | 
+associatedMedia | add
 associatedReferences | -
-associatedOccurrences | 
+associatedOccurrences | - 
 associatedSequences | -
 associatedTaxa | -
 
 ## Event
 
-DwC term | status
+DwC term | Status
 --- | ---
-eventID | 
+eventID | add
 samplingProtocol | 
 samplingEffort | 
-eventDate | use
-eventTime | use
-startDayOfYear | unnecessary
-endDayOfYear | unnecessary
-year | unnecessary
-month | unnecessary 
-day | unnecessary
-verbatimEventDate | unnecessary
+eventDate | suggested
+eventTime | suggested
+startDayOfYear | -
+endDayOfYear | -
+year | -
+month | - 
+day | -
+verbatimEventDate | -
 habitat | 
-fieldNumber | 
+fieldNumber | -
 fieldNotes | 
-eventRemarks | 
+eventRemarks | suggested
 
 ## Location
 
-DwC term | status
+DwC term | Status
 --- | ---
-locationID | use
-higherGeographyID | 
+locationID | suggested
+higherGeographyID | suggested
 higherGeography | 
-continent | 
-waterBody | use
+continent | suggested
+waterBody | suggested
 islandGroup | 
 island | 
-country | use
-countryCode | 
-stateProvince | 
+country | suggested
+countryCode | add
+stateProvince | -
 county | -
 municipality | -
-locality | use
-verbatimLocality | unnecessary
+locality | suggested
+verbatimLocality | -
 verbatimElevation | -
 minimumElevationInMeters | -
 maximumElevationInMeters | - 
-verbatimDepth | unnecessary
-minimumDepthInMeters | use
-maximumDepthInMeters | use
+verbatimDepth | -
+minimumDepthInMeters | suggested
+maximumDepthInMeters | suggested
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
-locationAccordingTo | -
-locationRemarks | -
-verbatimCoordinates | unnecessary
-verbatimLatitude | unnecessary
-verbatimLongitude | unnecessary
-verbatimCoordinateSystem | unnecessary
-verbatimSRS | unnecessary
-decimalLatitude | use
-decimalLongitude | use
-geodeticDatum | use
-coordinateUncertaintyInMeters | use
-coordinatePrecision | unnecessary
-pointRadiusSpatialFit | unnecessary
-footprintWKT | unnecessary
-footprintSRS | unnecessary
-footprintSpatialFit | unnecessary
+locationAccordingTo | 
+locationRemarks | suggested
+verbatimCoordinates | -
+verbatimLatitude | -
+verbatimLongitude | -
+verbatimCoordinateSystem | -
+verbatimSRS | -
+decimalLatitude | suggested
+decimalLongitude | suggested
+geodeticDatum | add
+coordinateUncertaintyInMeters | suggested
+coordinatePrecision | -
+pointRadiusSpatialFit | -
+footprintWKT | -
+footprintSRS | -
+footprintSpatialFit | -
 georeferencedBy | 
 georeferencedDate | 
 georeferenceProtocol | 
@@ -122,12 +122,12 @@ georeferenceRemarks |
 
 ## Identification
 
-DwC term | status
+DwC term | Status
 --- | ---
 identificationID | -
-identifiedBy | 
-dateIdentified | 
-identificationReferences | 
+identifiedBy | suggested
+dateIdentified | suggested
+identificationReferences |  
 identificationVerificationStatus | 
 identificationRemarks | 
 identificationQualifier | -
@@ -135,40 +135,40 @@ typeStatus | -
 
 ## Geological context
 
--
+n/a
 
 ## Taxon
 
-DwC term | status
+DwC term | Status
 --- | ---
-taxonID | -
+taxonID | 
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | -
+nameAccordingToID | 
 namePublishedInID | -
-taxonConceptID | -
-scientificName | use
+taxonConceptID | 
+scientificName | suggested
 acceptedNameUsage | unnecessary
 parentNameUsage | -
 originalNameUsage | -
 nameAccordingTo | -
 namePublishedIn | -
 namePublishedInYear | -
-higherClassification | unnecessary
-kingdom | use
-phylum | 
-class | 
-order | 
-family | 
-genus | use
-subgenus | unnecessary
-specificEpithet | use
-infraspecificEpithet | use
-taxonRank | use
-verbatimTaxonRank | unnecessary
-scientificNameAuthorship | use
+higherClassification | -
+kingdom | suggested
+phylum | suggested
+class | suggested
+order | suggested
+family | suggested
+genus | suggested
+subgenus | -
+specificEpithet | suggested
+infraspecificEpithet | suggested
+taxonRank | add
+verbatimTaxonRank | -
+scientificNameAuthorship | suggested
 vernacularName | 
 nomenclaturalCode | 
 taxonomicStatus | -
@@ -181,7 +181,7 @@ taxonRemarks | -
 
 ## Measurement or fact
 
-DwC term | status
+DwC term | Status
 --- | ---
 occurrenceID | 
 measurementID | 
