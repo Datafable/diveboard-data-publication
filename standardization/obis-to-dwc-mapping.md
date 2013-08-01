@@ -2,31 +2,6 @@
 
 OBIS term (obsolete) | DwC term | example value | status | remarks | example value DwC
 --- | --- | --- | --- | --- | ---
-DateLastModified | modified | 2012-12-05 17:29:50 UTC | keep
-Institutioncode | institutionCode | ~~DIVEBOARD~~ | keep |**fixed term** | Diveboard
-CollectionCode | collectionCode | - | n/a | no specimens collected
-CatalogNumber | catalogNumber | - | n/a | no specimens collected
-RecordURL | references | <http://www.diveboard.com/bruno.lestrade/DPaanH> | keep | is divelog url, gives extra info
-RecordID | occurrenceID | 20745099 | keep |
-ScientificName | scientificName | Pterois | keep| 
-BasisOfRecord | basisOfRecord | ~~o~~ | keep | **fixed term** | HumanObservation
-Source | | WORMS | n/a | 
-Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com |  | **discussion** 
-Kingdom | kingdom | - | if available | **source EOL**
-Phylum | phylum | - | if available | **source EOL**
-Class | class | - | if available | **source EOL**
-Order | order | - | if available | **source EOL**
-Family | family | - | if available | **source EOL**
-Genus | genus | - | if available | **source EOL**
-Subgenus | subgenus | - | if available | **source EOL** 
-Species | specificEpithet | - | keep | **source EOL**
-Subspecies | infraspecificEpithet | - | if available | **source EOL**
-ScientificNameAuthor | scientificNameAuthorship | - | if available | **source EOL**
-IdentifiedBy | identifiedBy | - | use | = `recordedBy` | Bruno Lestrade
-YearIdentified | dateIdentified | - | use | = `eventdate` | 2005-07-25
-MonthIdentified | dateIdentified | - | move
-DayIdentified | dateIdentified | - | move
-TypeStatus | typeStatus | - | n/a
 CollectorNumber | recordNumber | - | n/a
 Field Number | fieldNumber | - | n/a
 Collector | recordedBy | ~~Bruno Lestrade - Diveboard~~ | keep | | Bruno Lestrade
