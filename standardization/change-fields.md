@@ -21,3 +21,7 @@ n | Species | specificEpithet | | `?` | If provided by EOL
 n | Subspecies | infraspecificEpithet | | `?` | If provided by EOL
 n | ScientificNameAuthor | scientificNameAuthorship | | `?` | If provided by EOL
 n | IdentifiedBy | identifiedBy | | Bruno Lestrade | Identical to `recordedBy`
+n | Collector | recordedBy | Bruno Lestrade - Diveboard | Bruno Lestrade | 
+n | YearCollected | eventDate | 2005 | 2005-07-25 | Merge data into `eventDate`
+n | MonthCollected | eventDate | 7 | 2005-07-25 | Merge data into `eventDate`
+n | DayCollected | eventDate | 25 | 2005-07-25 | Merge data into `eventDate`

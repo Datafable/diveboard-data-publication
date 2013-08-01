@@ -4,19 +4,6 @@ OBIS term (obsolete) | DwC term | example value | status | remarks | example val
 --- | --- | --- | --- | --- | ---
 CollectorNumber | recordNumber | - | n/a
 Field Number | fieldNumber | - | n/a
-Collector | recordedBy | ~~Bruno Lestrade - Diveboard~~ | keep | | Bruno Lestrade
-StartYearCollected | - | - | unnecessary
-StartMonthCollected | - | - | unnecessary
-StartDayCollected | - | - | unnecessary
-EndYearCollected | - | - | unnecessary
-EndMonthCollected | - | - | unnecessary
-EndDayCollected | - | - | unnecessary
-YearCollected | eventDate | ~~2005~~  | keep | | 2005-07-25
-MonthCollected | eventDate | 7 | move
-DayCollected | eventDate | 25 | move
-JulianDay | - | - | unnecessary
-StartJulianDay | startDateOfYear | - | unnecessary 
-EndJulianDay | endDateOfYear | - | unnecessary
 TimeOfDay | eventTime | - | unnecessary
 StartTimeOfDay | - | 0 | unnecessary
 EndTimeOfDay | - | 29/60 | unnecessary
