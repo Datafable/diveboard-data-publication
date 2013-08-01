@@ -1,7 +1,7 @@
 # OBIS to Darwin Core mapping
 
-OBIS term (obsolete) | DwC term | example value | status | remarks |example value DwC
---- | --- | --- | --- | ---
+OBIS term (obsolete) | DwC term | example value | status | remarks | example value DwC
+--- | --- | --- | --- | --- | ---
 DateLastModified | modified | 2012-12-05 17:29:50 UTC | keep
 Institutioncode | institutionCode | ~~DIVEBOARD~~ | keep |**fixed term** | Diveboard
 CollectionCode | collectionCode | - | n/a | no specimens collected
