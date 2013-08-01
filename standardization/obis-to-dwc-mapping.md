@@ -12,17 +12,17 @@ ScientificName | scientificName | Pterois | keep
 BasisOfRecord | basisOfRecord | ~~o~~ HumanObservation | keep | **fixed term**
 Source | | WORMS | deprecate | 
 Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com |  | **discussion** 
-Kingdom | kingdom | - | keep | **source EOL**
-Phylum | phylum | - | keep | **source EOL**
-Class | class | - | keep | **source EOL**
-Order | order | - | keep | **source EOL**
-Family | family | - | keep | **source EOL**
-Genus | genus | - | keep | **source EOL**
+Kingdom | kingdom | - | if available | **source EOL**
+Phylum | phylum | - | if available | **source EOL**
+Class | class | - | if available | **source EOL**
+Order | order | - | if available | **source EOL**
+Family | family | - | if available | **source EOL**
+Genus | genus | - | if available | **source EOL**
 Subgenus | subgenus | - | deprecate | 
-Species | specificEpithet | - | keep
-Subspecies | infraspecificEpithet | - | keep
-ScientificNameAuthor | scientificNameAuthorship | - | keep
-IdentifiedBy | identifiedBy | - | 
+Species | specificEpithet | - | keep | **source EOL**
+Subspecies | infraspecificEpithet | - | if available | **source EOL**
+ScientificNameAuthor | scientificNameAuthorship | - | if available | **source EOL**
+IdentifiedBy | identifiedBy | Bruno Lestrade - Diveboard | move | =collector
 YearIdentified | dateIdentified | - | 
 MonthIdentified | dateIdentified | - | 
 DayIdentified | dateIdentified | - | 
