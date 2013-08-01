@@ -4,6 +4,7 @@ Done | OBIS field | DwC field | Old value | Remarks
 --- | --- | --- | --- | ---
 n | CollectionCode | collectionCode | | Applies to specimens only
 n | CatalogNumber | catalogNumber | | Applies to specimens only
+n | Subgenus | subgenus | | Not necessary
 n | YearIdentified | ~ dateIdentified | | Provided in other field
 n | MonthIdentified | ~ dateIdentified | | Provided in other field
 n | DayIdentified | ~ dateIdentified | | Provided in other field

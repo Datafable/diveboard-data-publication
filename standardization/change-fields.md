@@ -16,7 +16,6 @@ n | Class | class | | `?` | If provided by EOL
 n | Order | order | | `?` | If provided by EOL
 n | Family | family | | `?` | If provided by EOL
 n | Genus | genus | | `?` | If provided by EOL
-n | Subgenus | subgenus | | `?` | If provided by EOL
 n | Species | specificEpithet | | `?` | If provided by EOL
 n | Subspecies | infraspecificEpithet | | `?` | If provided by EOL
 n | ScientificNameAuthor | scientificNameAuthorship | | `?` | If provided by EOL
