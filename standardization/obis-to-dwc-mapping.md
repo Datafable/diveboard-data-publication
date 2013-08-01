@@ -1,24 +1,24 @@
 # OBIS to Darwin Core mapping
 
-OBIS term (obsolete) | DwC term | example value | status
---- | --- | --- | ---
+OBIS term (obsolete) | DwC term | example value | status | remarks |
+--- | --- | --- | --- | --- |
 DateLastModified | modified | 2012-12-05 17:29:50 UTC | keep
-Institutioncode | institutionCode | ~~DIVEBOARD~~ Diveboard | keep
-CollectionCode | collectionCode | - | n/a
-CatalogNumber | catalogNumber | - | 
-RecordURL | references | <http://www.diveboard.com/bruno.lestrade/DPaanH> | keep, if occurrence url
+Institutioncode | institutionCode | ~~DIVEBOARD~~ Diveboard | keep |**fixed term**
+CollectionCode | collectionCode | - | n/a | no specimens collected
+CatalogNumber | catalogNumber | - | n/a | no specimens collected
+RecordURL | references | <http://www.diveboard.com/bruno.lestrade/DPaanH> | keep | is divelog url,gives extra info
 RecordID | occurrenceID | 20745099 | keep
 ScientificName | scientificName | Pterois | keep 
-BasisOfRecord | basisOfRecord | ~~o~~ HumanObservation | keep 
-Source | | WORMS | 
-Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com | 
-Kingdom | kingdom | - | keep
-Phylum | phylum | - | 
-Class | class | - | 
-Order | order | - | 
-Family | family | - | 
-Genus | genus | - | keep
-Subgenus | subgenus | - | unnecessary?
+BasisOfRecord | basisOfRecord | ~~o~~ HumanObservation | keep | **fixed term**
+Source | | WORMS | deprecate | 
+Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com |  | **discussion** 
+Kingdom | kingdom | - | keep | **source EOL**
+Phylum | phylum | - | keep | **source EOL**
+Class | class | - | keep | **source EOL**
+Order | order | - | keep | **source EOL**
+Family | family | - | keep | **source EOL**
+Genus | genus | - | keep | **source EOL**
+Subgenus | subgenus | - | deprecate | 
 Species | specificEpithet | - | keep
 Subspecies | infraspecificEpithet | - | keep
 ScientificNameAuthor | scientificNameAuthorship | - | keep
