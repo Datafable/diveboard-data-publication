@@ -38,7 +38,7 @@ individualCount | suggested
 sex | suggested
 lifeStage | suggested
 reproductiveCondition | -
-behavior | 
+behavior | suggested
 establishmentMeans | -
 occurrenceStatus | -
 preparations | -

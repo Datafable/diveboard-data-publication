@@ -7,6 +7,7 @@ n | continent | Europe |
 n | waterBody | North Sea | 
 n | locality | Cavall Bernat, Estartit & Medes Islands | Name of divespot, location
 n | occurrenceRemarks | One fin missing | Remarks about the observed species
+n | behavior | Remarks about the behavior of the observed species
 n | eventRemarks | Visibility poor | Remarks about the dive
 n | locationRemarks | Has ship wreckage since 2009 | Remarks about the dive site
 n | type | Event | `fixed value`
