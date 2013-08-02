@@ -141,14 +141,14 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | 
+taxonID | add
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
 nameAccordingToID | 
 namePublishedInID | -
-taxonConceptID | 
+taxonConceptID | -
 scientificName | suggested
 acceptedNameUsage | unnecessary
 parentNameUsage | -
