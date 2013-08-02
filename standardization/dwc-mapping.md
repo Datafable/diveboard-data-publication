@@ -141,7 +141,7 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | add
+taxonID | suggested
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -

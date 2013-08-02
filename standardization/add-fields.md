@@ -21,3 +21,4 @@ n | locationAccordingTo | Wikipedia | Depends on how location data are stored
 n | geodeticDatum | EPSG:4326 | `fixed value` or depending on GPS
 n | minimumElevationInMeters | 313 | 
 n | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
+n | taxonID | `?` | If provided by EOL
