@@ -169,8 +169,8 @@ infraspecificEpithet | suggested
 taxonRank | add
 verbatimTaxonRank | -
 scientificNameAuthorship | suggested
-vernacularName | 
 nomenclaturalCode | 
+vernacularName | suggested
 taxonomicStatus | -
 nomenclaturalStatus | -
 taxonRemarks | -
