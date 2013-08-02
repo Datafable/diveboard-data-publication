@@ -22,3 +22,4 @@ n | geodeticDatum | EPSG:4326 | `fixed value` or depending on GPS
 n | minimumElevationInMeters | 313 | 
 n | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 n | taxonID | `?` | If provided by EOL
+n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
