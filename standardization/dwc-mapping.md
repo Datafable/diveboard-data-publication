@@ -66,7 +66,7 @@ year | -
 month | - 
 day | -
 verbatimEventDate | -
-habitat | 
+habitat | -
 fieldNumber | -
 fieldNotes | suggested
 eventRemarks | suggested
