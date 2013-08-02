@@ -106,7 +106,7 @@ verbatimCoordinateSystem | -
 verbatimSRS | -
 decimalLatitude | suggested
 decimalLongitude | suggested
-geodeticDatum | add
+geodeticDatum | suggested
 coordinateUncertaintyInMeters | suggested
 coordinatePrecision | -
 pointRadiusSpatialFit | -
