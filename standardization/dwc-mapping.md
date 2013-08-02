@@ -4,21 +4,21 @@
 
 DwC term | Status
 --- | ---
-type | add
+type | suggested
 modified | suggested
-language | add
-rights | add
-rightsHolder | add
 accessRights | 
+language | suggested
+rights | suggested
+rightsHolder | suggested
 bibliographicCitation | suggested
 references | suggested
 institutionID | -
 collectionID | -
-datasetID | add
+datasetID | suggested
 institutionCode | suggested
 collectionCode | -
-datasetName | add
-ownerInstitutionCode | add
+datasetName | suggested
+ownerInstitutionCode | suggested
 basisOfRecord | suggested
 informationWithheld | 
 dataGeneralizations | 
