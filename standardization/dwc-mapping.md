@@ -80,8 +80,8 @@ higherGeographyID | suggested
 higherGeography | -
 continent | suggested
 waterBody | suggested
-islandGroup | 
-island | 
+islandGroup | -
+island | -
 country | suggested
 countryCode | add
 stateProvince | -
