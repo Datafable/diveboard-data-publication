@@ -77,7 +77,7 @@ DwC term | Status
 --- | ---
 locationID | suggested
 higherGeographyID | suggested
-higherGeography | 
+higherGeography | -
 continent | suggested
 waterBody | suggested
 islandGroup | 
