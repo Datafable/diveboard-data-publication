@@ -16,3 +16,4 @@ n | rightsHolder | Diveboard | `fixed value` To be discussed
 n | datasetID | `url of published dataset` | To be discussed
 n | datasetName | `title of published dataset`| To be discussed
 n | ownerInstitutionCode | Diveboard | 
+n | countryCode | ES | Depends on how country data are stored

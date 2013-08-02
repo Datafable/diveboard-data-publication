@@ -83,7 +83,7 @@ waterBody | suggested
 islandGroup | -
 island | -
 country | suggested
-countryCode | add
+countryCode | suggested
 stateProvince | -
 county | -
 municipality | -
