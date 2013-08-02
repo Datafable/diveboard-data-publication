@@ -23,4 +23,5 @@ n | minimumElevationInMeters | 313 |
 n | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 n | taxonID | `?` | If provided by EOL
 n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
+n | taxonRank | If provided by EOL
 n | vernacularName | If provided by EOL

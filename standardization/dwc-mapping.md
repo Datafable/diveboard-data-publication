@@ -166,7 +166,7 @@ genus | suggested
 subgenus | -
 specificEpithet | suggested
 infraspecificEpithet | suggested
-taxonRank | add
+taxonRank | suggested
 verbatimTaxonRank | -
 scientificNameAuthorship | suggested
 vernacularName | suggested
