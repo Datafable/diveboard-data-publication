@@ -38,4 +38,4 @@ n | Temperature | - | 28.0 | `idem` | This can be provided in a `MeasurementOrFa
 n | Sex | sex | | female | Currently not recorded, to be discussed
 n | LifeStage | lifeStage | | adult | Currently not recorded, to be discussed
 n | IndividualCount | individualCount | | 11 | Currently not recorded, to be discussed
-n | ObservedWeight | - | 10.2 | Currently not recorded, to be discussed. Can be provided in `MeasurementsOrFacts` extension.
+n | ObservedWeight | - | | 10.2 | Currently not recorded, to be discussed. Can be provided in `MeasurementsOrFacts` extension.
