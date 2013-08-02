@@ -90,8 +90,8 @@ municipality | -
 locality | suggested
 verbatimLocality | -
 verbatimElevation | -
-minimumElevationInMeters | -
-maximumElevationInMeters | - 
+minimumElevationInMeters | suggested
+maximumElevationInMeters | suggested
 verbatimDepth | -
 minimumDepthInMeters | suggested
 maximumDepthInMeters | suggested
