@@ -26,3 +26,4 @@ n | taxonID | `?` | If provided by EOL
 n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
 n | taxonRank | If provided by EOL
 n | vernacularName | If provided by EOL
+n | occurrenceID | Diveboard:20745099 | 
