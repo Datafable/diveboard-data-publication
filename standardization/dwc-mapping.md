@@ -68,7 +68,7 @@ day | -
 verbatimEventDate | -
 habitat | 
 fieldNumber | -
-fieldNotes | 
+fieldNotes | suggested
 eventRemarks | suggested
 
 ## Location

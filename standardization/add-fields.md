@@ -9,6 +9,7 @@ n | locality | Cavall Bernat, Estartit & Medes Islands | Name of divespot, locat
 n | occurrenceRemarks | One fin missing | Remarks about the observed species
 n | behavior | Remarks about the behavior of the observed species
 n | eventRemarks | Visibility poor | Remarks about the dive
+n | fieldNotes | `description of dive trip` | To be discussed: privacy issues
 n | locationRemarks | Has ship wreckage since 2009 | Remarks about the dive site
 n | type | Event | `fixed value`
 n | language | en | `fixed value`
