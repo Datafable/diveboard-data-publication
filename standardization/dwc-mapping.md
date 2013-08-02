@@ -45,7 +45,7 @@ preparations | -
 disposition | -
 otherCatalogNumbers | -
 previousIdentifications | -
-associatedMedia | add
+associatedMedia | suggested
 associatedReferences | -
 associatedOccurrences | - 
 associatedSequences | -

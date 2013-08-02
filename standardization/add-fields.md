@@ -27,3 +27,4 @@ n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if pr
 n | taxonRank | If provided by EOL
 n | vernacularName | If provided by EOL
 n | occurrenceID | Diveboard:20745099 | 
+n | associatedMedia | `image-url; image-url` | To be discussed:  should refer to the occurrence, not event
