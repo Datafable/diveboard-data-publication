@@ -150,7 +150,7 @@ nameAccordingToID |
 namePublishedInID | -
 taxonConceptID | -
 scientificName | suggested
-acceptedNameUsage | unnecessary
+acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
 nameAccordingTo | -
