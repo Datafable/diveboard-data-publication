@@ -25,7 +25,7 @@ n | YearCollected | eventDate | 2005 | 2005-07-25 | Merge data into `eventDate`
 n | MonthCollected | eventDate | 7 | 2005-07-25 | Merge data into `eventDate`
 n | DayCollected | eventDate | 25 | 2005-07-25 | Merge data into `eventDate`
 n | StartTimeOfDay | eventTime | 0 | 14:03:02Z | Merge data into `eventTime`
-n | EndTimeOfDay | eventTime | 29/60 | 14:03:02Z | Merge data into `eventTime`
+n | EndTimeOfDay | eventTime | 29/60 | 14:03:02Z | Merge data into `eventTime` with `/` if duration is provided
 n | ContinentOcean | higherGeographyID | #<Region:0x00000006498760> | `idem` | To what does this refer exactly?
 n | Country | country | Egypt | `idem` | 
 n | Locality | locationID | #<Location:0x000000068d9c98> | `idem` | To what does this refer exactly?
