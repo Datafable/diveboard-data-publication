@@ -28,8 +28,8 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | suggested
-catalogNumber | 
+occurrenceID | add
+catalogNumber | suggested
 occurrenceRemarks | suggested
 recordNumber | -
 recordedBy | suggested
