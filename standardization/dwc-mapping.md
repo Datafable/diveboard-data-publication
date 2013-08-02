@@ -55,9 +55,9 @@ associatedTaxa | -
 
 DwC term | Status
 --- | ---
-samplingProtocol | 
-samplingEffort | 
 eventID | suggested
+samplingProtocol | -
+samplingEffort | -
 eventDate | suggested
 eventTime | suggested
 startDayOfYear | -
