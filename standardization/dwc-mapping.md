@@ -20,9 +20,9 @@ collectionCode | -
 datasetName | suggested
 ownerInstitutionCode | suggested
 basisOfRecord | suggested
-informationWithheld | 
-dataGeneralizations | 
 dynamicProperties | 
+informationWithheld | -
+dataGeneralizations | -
 
 ## Occurrence
 
