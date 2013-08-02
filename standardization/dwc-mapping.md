@@ -113,12 +113,12 @@ pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
 footprintSpatialFit | -
-georeferencedBy | 
-georeferencedDate | 
-georeferenceProtocol | 
-georeferenceSources | 
-georeferenceVerificationStatus | 
-georeferenceRemarks | 
+georeferencedBy | -
+georeferencedDate | - 
+georeferenceProtocol | - 
+georeferenceSources | -
+georeferenceVerificationStatus | -
+georeferenceRemarks | -
 
 ## Identification
 
