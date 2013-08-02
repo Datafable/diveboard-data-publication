@@ -177,7 +177,7 @@ taxonRemarks | -
 
 ## Resource relationship
 
--
+n/a
 
 ## Measurement or fact
 
