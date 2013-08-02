@@ -6,10 +6,10 @@ DwC term | Status
 --- | ---
 type | suggested
 modified | suggested
-accessRights | 
 language | suggested
 rights | suggested
 rightsHolder | suggested
+accessRights | -
 bibliographicCitation | suggested
 references | suggested
 institutionID | -
