@@ -127,9 +127,9 @@ DwC term | Status
 identificationID | -
 identifiedBy | suggested
 dateIdentified | suggested
-identificationReferences |  
-identificationVerificationStatus | 
-identificationRemarks | 
+identificationReferences | -
+identificationVerificationStatus | -
+identificationRemarks | -
 identificationQualifier | -
 typeStatus | -
 
