@@ -6,7 +6,6 @@ n | dateIdentified | 2005-07-25 | Identical to `eventDate`
 n | continent | Europe | 
 n | waterBody | North Sea | 
 n | locality | Cavall Bernat, Estartit & Medes Islands | Name of divespot, location
-n | occurrenceRemarks | One fin missing | Remarks about the observed species
 n | behavior | Remarks about the behavior of the observed species
 n | eventRemarks | Visibility poor | Remarks about the dive
 n | fieldNotes | `description of dive trip` | To be discussed: privacy issues

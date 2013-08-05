@@ -30,7 +30,7 @@ DwC term | Status
 --- | ---
 occurrenceID | suggested
 catalogNumber | suggested
-occurrenceRemarks | suggested
+occurrenceRemarks | -
 recordNumber | -
 recordedBy | suggested
 individualID | -
