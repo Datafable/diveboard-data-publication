@@ -34,6 +34,8 @@ n | EndLongitude | ~ footprintWKT | | Won't support polygons
 n | StartLatitude | ~ footprintWKT | | Won't support polygons
 n | EndLatitude | ~ footprintWKT | | Won't support polygons
 n | DepthRange | - | DepthRange | Can be derived from `depthInMeters`
+n | Sex | sex | | Users cannot add occurrence information
+n | LifeStage | lifeStage | | Users cannot add occurrence information
 n | PreparationType | preparations | | Applies to specimens only
 n | ObservedIndividualCount | ~ individualCount | | Provided in other field
 n | PreviousCatalogNumber | - | | Not in DarwinCore
