@@ -1,6 +1,6 @@
 # Fields to change
 
-Done | OBIS field | DwC field | Old value | New value | Remarks
+Done | Diveboard field | DwC field | Old value | New value | Remarks
 --- | --- | --- | --- | --- | ---
 n | DateLastModified | modified | 2012-12-05 17:29:50 UTC | 2012-12-05T17:29:50Z
 n | Institutioncode | institutionCode | DIVEBOARD | Diveboard | `fixed value`
