@@ -35,7 +35,7 @@ recordNumber | -
 recordedBy | suggested
 individualID | -
 individualCount | suggested
-sex | suggested
+sex | -
 lifeStage | suggested
 reproductiveCondition | -
 behavior | -
