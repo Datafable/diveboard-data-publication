@@ -116,7 +116,7 @@ footprintSpatialFit | -
 georeferencedBy | -
 georeferencedDate | - 
 georeferenceProtocol | - 
-georeferenceSources | -
+georeferenceSources | suggested
 georeferenceVerificationStatus | -
 georeferenceRemarks | -
 
