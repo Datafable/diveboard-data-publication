@@ -36,7 +36,7 @@ recordedBy | suggested
 individualID | -
 individualCount | suggested
 sex | -
-lifeStage | suggested
+lifeStage | -
 reproductiveCondition | -
 behavior | -
 establishmentMeans | -
