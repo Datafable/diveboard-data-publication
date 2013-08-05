@@ -34,7 +34,7 @@ occurrenceRemarks | -
 recordNumber | -
 recordedBy | suggested
 individualID | -
-individualCount | suggested
+individualCount | -
 sex | -
 lifeStage | -
 reproductiveCondition | -

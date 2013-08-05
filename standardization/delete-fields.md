@@ -37,6 +37,7 @@ n | DepthRange | - | DepthRange | Can be derived from `depthInMeters`
 n | Sex | sex | | Users cannot add occurrence information
 n | LifeStage | lifeStage | | Users cannot add occurrence information
 n | PreparationType | preparations | | Applies to specimens only
+n | IndividualCount | individualCount | | Users cannot add occurrence information
 n | ObservedIndividualCount | ~ individualCount | | Provided in other field
 n | PreviousCatalogNumber | - | | Not in DarwinCore
 n | RelationshipType | - | | Won't support relations (via `ResourceRelationship` extension)
