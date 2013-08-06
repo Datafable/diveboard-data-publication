@@ -32,7 +32,7 @@ n | Locality | locationID | #<Location:0x000000068d9c98> | `idem` | To what does
 n | Longitude | decimalLongitude | 34.513 | `idem` | Are these numbers rounded?
 n | Latitude | decimalLongitude | 28.501 | `idem` | Are these numbers rounded?
 n | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` | Verify these are meters. 100m sees a good estimate for clicking on Google Maps
-n | MinimumDepth | minimumDepthInMeters | 0 | `idem` | Verify these are meters
+n | MinimumDepth | minimumDepthInMeters | 0 | `idem` | `fixed value` Verify these are meters
 n | MaximumDepth | maximumDepthInMeters | 12.0 | `idem` | Verify these are meters
 n | Temperature | - | 28.0 | `idem` | This can be provided in a `MeasurementOrFacts` extension, requires some work (this might be split in surface and bottom temp.)
 n | ObservedWeight | - | | 10.2 | Currently not recorded, to be discussed. Can be provided in `MeasurementsOrFacts` extension.
