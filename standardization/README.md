@@ -1,22 +1,17 @@
-# Standardization to DwC-A
+# Standardization of Diveboard data to DwC-A
 
-##Alter the Diveboard "OBIS" standard in Darwin Core 
+## Introduction
 
-### Introduction
+Diveboard data are currently provided in the [OBIS schema](http://www.iobis.org/node/304). The [Darwin Core standard](http://rs.tdwg.org/dwc/terms/index.htm) however is a more uniformal and widely adopted way to share biodiversity data. It also also allows to share the data as a standardized data package: the [Darwin Core archive](http://www.gbif.org/informatics/standards-and-tools/publishing-data/data-standards/darwin-core-archives/).
 
-The OBIS standard is not a perfect fit for creating Darwin Core Archives. To resolve this problem we created some instructions to simply create a Darwin Core Archive, starting from the OBIS standard.
+In this directory, we provide instructions how to reformat the Diveboard data from its current OBIS view to Darwin Core.
 
-###The OBIS standard
+## Changes to be made
 
-A weblink to the current OBIS standard can be found here: [OBIS Schema](http://www.iobis.org/node/304)
-
-
-### Changes to be made
-
-* [Add fields](add-fields.md): Fields that are not available in the current "Diveboard" view, but are preferably added, many are fixed terms.
-* [Change fields](change-fields.md): Fields available in the OBIS standard but requires a new header. A link to the Darwin Core standard can be found here: [Darwin Core Schema](http://rs.tdwg.org/dwc/terms/)
-* [Delete fields](delete-fields.md): Fields who can be deleted in the diveboard view.
+* [Add fields](add-fields.md): Fields that are currently not provided, but which are preferably added. Many are fixed terms (= same value for all fields).
+* [Change fields](change-fields.md): Fields that are currently provided, but which require a new header or some slight changes.
+* [Delete fields](delete-fields.md): Fields that are currently provided, but which should be deleted, as these are empty or superfluous.
 
 ### Overview of DwC fields
 
-* [DwC mapping](dwc-mapping.md): 
+* [DwC mapping](dwc-mapping.md): An overview of all Darwin Core terms and their relevance to the Diveboard data.
