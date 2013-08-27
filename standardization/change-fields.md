@@ -28,7 +28,7 @@ n | StartTimeOfDay | eventTime | 0 | 14:03:02Z | Merge data into `eventTime`
 n | EndTimeOfDay | eventTime | 29/60 | 14:03:02Z | Merge data into `eventTime` with `/` if duration is provided
 n | ContinentOcean | higherGeographyID | #<Region:0x00000006498760> | `idem` | To what does this refer exactly?
 n | Country | country | Egypt | `idem` | 
-n | Locality | locationID | #<Location:0x000000068d9c98> | `idem` | To what does this refer exactly?
+n | Locality | locality | #<Location:0x000000068d9c98> | `idem` | To what does this refer exactly?
 n | Longitude | decimalLongitude | 34.513 | `idem` | Are these numbers rounded?
 n | Latitude | decimalLongitude | 28.501 | `idem` | Are these numbers rounded?
 n | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` | Verify these are meters. 100m sees a good estimate for clicking on Google Maps
