@@ -2,24 +2,24 @@
 
 ## Root
 
-DwC term | Status
+DwC term | Status |content
 --- | ---
-type | suggested
-modified | suggested
-language | suggested
-rights | suggested
-rightsHolder | suggested
+type | OK | OK
+modified | OK | OK
+language | OK | empty
+rights | OK | empty
+rightsHolder | OK | OK
 accessRights | -
-bibliographicCitation | suggested
-references | suggested
+bibliographicCitation | OK | empty
+references | OK | OK
 institutionID | -
 collectionID | -
-datasetID | suggested
-institutionCode | suggested
+datasetID | OK | empty
+institutionCode | OK | OK
 collectionCode | -
-datasetName | suggested
-ownerInstitutionCode | suggested
-basisOfRecord | suggested
+datasetName | OK | empty
+ownerInstitutionCode | OK | empty
+basisOfRecord | OK | OK
 informationWithheld | -
 dataGeneralizations | -
 dynamicProperties | -
@@ -28,11 +28,11 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | suggested
-catalogNumber | suggested
+occurrenceID | OK | empty
+catalogNumber | OK | OK
 occurrenceRemarks | -
 recordNumber | -
-recordedBy | suggested
+recordedBy | OK | OK
 individualID | -
 individualCount | -
 sex | -
@@ -55,60 +55,60 @@ associatedTaxa | -
 
 DwC term | Status
 --- | ---
-eventID | suggested
+eventID | OK | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | suggested
-eventTime | suggested
+eventDate | OK | OK
+eventTime | OK | OK
 startDayOfYear | -
 endDayOfYear | -
 year | -
 month | - 
 day | -
 verbatimEventDate | -
-habitat | suggested
+habitat | OK | empty
 fieldNumber | -
-fieldNotes | suggested
-eventRemarks | suggested
+fieldNotes | OK | empty
+eventRemarks | OK | empty
 
 ## Location
 
 DwC term | Status
 --- | ---
 locationID | suggested
-higherGeographyID | suggested
+higherGeographyID | OK | wrong
 higherGeography | -
-continent | suggested
-waterBody | suggested
+continent | OK | empty
+waterBody | OK | empty
 islandGroup | -
 island | -
-country | suggested
-countryCode | suggested
+country | OK | OK
+countryCode | OK | empty
 stateProvince | -
 county | -
 municipality | -
-locality | suggested
+locality | OK | OK
 verbatimLocality | -
 verbatimElevation | -
-minimumElevationInMeters | suggested
-maximumElevationInMeters | suggested
+minimumElevationInMeters | OK | empty
+maximumElevationInMeters | OK | empty
 verbatimDepth | -
-minimumDepthInMeters | suggested
-maximumDepthInMeters | suggested
+minimumDepthInMeters | nOK | MinimumDepth
+maximumDepthInMeters | nOK | MinimumDepth
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
 locationAccordingTo | suggested
-locationRemarks | suggested
+locationRemarks | OK | OK
 verbatimCoordinates | -
 verbatimLatitude | -
 verbatimLongitude | -
 verbatimCoordinateSystem | -
 verbatimSRS | -
-decimalLatitude | suggested
-decimalLongitude | suggested
-geodeticDatum | suggested
+decimalLatitude |OK | OK
+decimalLongitude OK | OK
+geodeticDatum | OK | OK
 coordinateUncertaintyInMeters | suggested
-coordinatePrecision | -
+coordinatePrecision | - | nOK
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
@@ -116,7 +116,7 @@ footprintSpatialFit | -
 georeferencedBy | -
 georeferencedDate | - 
 georeferenceProtocol | - 
-georeferenceSources | suggested
+georeferenceSources | OK | OK
 georeferenceVerificationStatus | -
 georeferenceRemarks | -
 
@@ -125,8 +125,8 @@ georeferenceRemarks | -
 DwC term | Status
 --- | ---
 identificationID | -
-identifiedBy | suggested
-dateIdentified | suggested
+identifiedBy | OK | empty
+dateIdentified | OK | OK
 identificationReferences | -
 identificationVerificationStatus | -
 identificationRemarks | -
@@ -141,15 +141,15 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | suggested
+taxonID | OK | empty
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | suggested
+nameAccordingToID | OK | empty
 namePublishedInID | -
 taxonConceptID | -
-scientificName | suggested
+scientificName | OK | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
@@ -157,19 +157,19 @@ nameAccordingTo | -
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
-kingdom | suggested
-phylum | suggested
-class | suggested
-order | suggested
-family | suggested
-genus | suggested
+kingdom | OK | empty
+phylum | OK | empty
+class | OK | empty
+order | OK | empty
+family | OK | empty
+genus | OK | empty
 subgenus | -
-specificEpithet | suggested
-infraspecificEpithet | suggested
-taxonRank | suggested
+specificEpithet | OK | empty
+infraspecificEpithet | OK | empty
+taxonRank | nOK | empty
 verbatimTaxonRank | -
-scientificNameAuthorship | suggested
-vernacularName | suggested
+scientificNameAuthorship | OK | empty
+vernacularName | nOK | empty
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
