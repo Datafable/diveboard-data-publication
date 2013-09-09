@@ -3,7 +3,7 @@
 ## Root
 
 DwC term | Status |content
---- | ---
+--- | --- | ---
 type | OK | OK
 modified | OK | OK
 language | OK | empty
@@ -26,8 +26,8 @@ dynamicProperties | -
 
 ## Occurrence
 
-DwC term | Status
---- | ---
+DwC term | Status |content
+--- | --- | ---
 occurrenceID | OK | empty
 catalogNumber | OK | OK
 occurrenceRemarks | -
@@ -53,8 +53,8 @@ associatedTaxa | -
 
 ## Event
 
-DwC term | Status
---- | ---
+DwC term | Status | content
+--- | --- | ---
 eventID | OK | empty
 samplingProtocol | -
 samplingEffort | -
@@ -73,8 +73,8 @@ eventRemarks | OK | empty
 
 ## Location
 
-DwC term | Status
---- | ---
+DwC term | Status | content
+--- | --- | ---
 locationID | suggested
 higherGeographyID | OK | wrong
 higherGeography | -
@@ -122,8 +122,8 @@ georeferenceRemarks | -
 
 ## Identification
 
-DwC term | Status
---- | ---
+DwC term | Status | content
+--- | --- | ---
 identificationID | -
 identifiedBy | OK | empty
 dateIdentified | OK | OK
@@ -139,8 +139,8 @@ n/a
 
 ## Taxon
 
-DwC term | Status
---- | ---
+DwC term | Status | content
+--- | --- | ---
 taxonID | OK | empty
 scientificNameID | -
 acceptedNameUsageID | - 
@@ -181,8 +181,8 @@ n/a
 
 ## Measurement or fact
 
-DwC term | Status
---- | ---
+DwC term | Status | content
+--- | --- | ---
 occurrenceID | 
 measurementID | 
 measurementType | 
