@@ -58,8 +58,8 @@ DwC term | Status
 eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | change
-eventTime | change
+eventDate | change: format as `modified`, including time
+eventTime | remove
 startDayOfYear | -
 endDayOfYear | -
 year | -
@@ -76,39 +76,39 @@ eventRemarks | empty
 DwC term | Status
 --- | ---
 locationID | suggested
-higherGeographyID | change
+higherGeographyID | suggested
 higherGeography | -
-continent | suggested
-waterBody | suggested
+continent | empty
+waterBody | OK
 islandGroup | -
 island | -
 country | OK
-countryCode | suggested
+countryCode | change: leave `BLANK` empty
 stateProvince | -
 county | -
-municipality | -
-locality | OK
+municipality | remove
+locality | change: concatenate as `locality, municipality`
 verbatimLocality | -
 verbatimElevation | -
-minimumElevationInMeters | suggested
-maximumElevationInMeters | suggested
+minimumElevationInMeters | empty
+maximumElevationInMeters | empty
 verbatimDepth | -
-minimumDepthInMeters | change
-maximumDepthInMeters | change
+minimumDepthInMeters | OK
+maximumDepthInMeters | change: why are number of decimals so varied?
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
 locationAccordingTo | suggested
-locationRemarks | OK
+locationRemarks | empty
 verbatimCoordinates | -
 verbatimLatitude | -
 verbatimLongitude | -
 verbatimCoordinateSystem | -
 verbatimSRS | -
 decimalLatitude | OK
-decimalLongitude OK
+decimalLongitude | OK
 geodeticDatum | OK
-coordinateUncertaintyInMeters | suggested
-coordinatePrecision | change
+coordinateUncertaintyInMeters | change: add values from `coordinatePrecision` here
+coordinatePrecision | remove
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
@@ -125,7 +125,7 @@ georeferenceRemarks | -
 DwC term | Status
 --- | ---
 identificationID | -
-identifiedBy | suggested
+identifiedBy | OK
 dateIdentified | OK
 identificationReferences | -
 identificationVerificationStatus | -
@@ -141,35 +141,35 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | suggested
+taxonID | empty
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | suggested
+nameAccordingToID | empty
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | -
+nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
-kingdom | suggested
-phylum | suggested
-class | suggested
-order | suggested
-family | suggested
-genus | suggested
+kingdom | empty
+phylum | empty
+class | empty
+order | empty
+family | empty
+genus | empty
 subgenus | -
-specificEpithet | suggested
-infraspecificEpithet | suggested
-taxonRank | change
+specificEpithet | empty
+infraspecificEpithet | empty
+taxonRank | empty
 verbatimTaxonRank | -
-scientificNameAuthorship | suggested
-vernacularName | change
+scientificNameAuthorship | empty
+vernacularName | empty
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
