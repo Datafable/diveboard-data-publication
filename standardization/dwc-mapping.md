@@ -4,22 +4,22 @@
 
 DwC term | Status
 --- | ---
-type | suggested
-modified | suggested
+type | OK
+modified | OK
 language | suggested
-rights | suggested
-rightsHolder | suggested
+rights | OK
+rightsHolder | OK
 accessRights | -
-bibliographicCitation | suggested
-references | suggested
+bibliographicCitation | change: I would drop this field. 
+references | OK
 institutionID | -
 collectionID | -
-datasetID | suggested
-institutionCode | suggested
+datasetID | OK
+institutionCode | OK
 collectionCode | -
-datasetName | suggested
+datasetName | change: I propose: `Diveboard - Scuba diving citizen science`
 ownerInstitutionCode | suggested
-basisOfRecord | suggested
+basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
 dynamicProperties | -
@@ -28,11 +28,11 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | suggested
-catalogNumber | suggested
+occurrenceID | change: is `diveboard: 7_0_33102` an internal ID?
+catalogNumber | OK
 occurrenceRemarks | -
 recordNumber | -
-recordedBy | suggested
+recordedBy | OK
 individualID | -
 individualCount | -
 sex | -
@@ -45,7 +45,7 @@ preparations | -
 disposition | -
 otherCatalogNumbers | -
 previousIdentifications | -
-associatedMedia | suggested
+associatedMedia | empty
 associatedReferences | -
 associatedOccurrences | - 
 associatedSequences | -
@@ -55,21 +55,21 @@ associatedTaxa | -
 
 DwC term | Status
 --- | ---
-eventID | suggested
+eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | suggested
-eventTime | suggested
+eventDate | change: format as `modified`, including time
+eventTime | remove
 startDayOfYear | -
 endDayOfYear | -
 year | -
 month | - 
 day | -
 verbatimEventDate | -
-habitat | suggested
+habitat | empty
 fieldNumber | -
-fieldNotes | suggested
-eventRemarks | suggested
+fieldNotes | empty
+eventRemarks | empty
 
 ## Location
 
@@ -78,37 +78,37 @@ DwC term | Status
 locationID | suggested
 higherGeographyID | suggested
 higherGeography | -
-continent | suggested
-waterBody | suggested
+continent | empty
+waterBody | OK
 islandGroup | -
 island | -
-country | suggested
-countryCode | suggested
+country | OK
+countryCode | change: leave `BLANK` empty
 stateProvince | -
 county | -
-municipality | -
-locality | suggested
+municipality | remove
+locality | change: concatenate as `locality, municipality`
 verbatimLocality | -
 verbatimElevation | -
-minimumElevationInMeters | suggested
-maximumElevationInMeters | suggested
+minimumElevationInMeters | empty
+maximumElevationInMeters | empty
 verbatimDepth | -
-minimumDepthInMeters | suggested
-maximumDepthInMeters | suggested
+minimumDepthInMeters | OK
+maximumDepthInMeters | change: why are number of decimals so varied?
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
 locationAccordingTo | suggested
-locationRemarks | suggested
+locationRemarks | empty
 verbatimCoordinates | -
 verbatimLatitude | -
 verbatimLongitude | -
 verbatimCoordinateSystem | -
 verbatimSRS | -
-decimalLatitude | suggested
-decimalLongitude | suggested
-geodeticDatum | suggested
-coordinateUncertaintyInMeters | suggested
-coordinatePrecision | -
+decimalLatitude | OK
+decimalLongitude | OK
+geodeticDatum | OK
+coordinateUncertaintyInMeters | change: add values from `coordinatePrecision` here
+coordinatePrecision | remove
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
@@ -116,7 +116,7 @@ footprintSpatialFit | -
 georeferencedBy | -
 georeferencedDate | - 
 georeferenceProtocol | - 
-georeferenceSources | suggested
+georeferenceSources | OK
 georeferenceVerificationStatus | -
 georeferenceRemarks | -
 
@@ -125,8 +125,8 @@ georeferenceRemarks | -
 DwC term | Status
 --- | ---
 identificationID | -
-identifiedBy | suggested
-dateIdentified | suggested
+identifiedBy | OK
+dateIdentified | OK
 identificationReferences | -
 identificationVerificationStatus | -
 identificationRemarks | -
@@ -141,35 +141,35 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | suggested
+taxonID | empty
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | suggested
+nameAccordingToID | empty
 namePublishedInID | -
 taxonConceptID | -
-scientificName | suggested
+scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | -
+nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
-kingdom | suggested
-phylum | suggested
-class | suggested
-order | suggested
-family | suggested
-genus | suggested
+kingdom | empty
+phylum | empty
+class | empty
+order | empty
+family | empty
+genus | empty
 subgenus | -
-specificEpithet | suggested
-infraspecificEpithet | suggested
-taxonRank | suggested
+specificEpithet | empty
+infraspecificEpithet | empty
+taxonRank | empty
 verbatimTaxonRank | -
-scientificNameAuthorship | suggested
-vernacularName | suggested
+scientificNameAuthorship | empty
+vernacularName | empty
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
