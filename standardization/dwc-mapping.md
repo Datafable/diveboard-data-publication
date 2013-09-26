@@ -45,7 +45,7 @@ preparations | -
 disposition | -
 otherCatalogNumbers | -
 previousIdentifications | -
-associatedMedia | suggested
+associatedMedia | empty
 associatedReferences | -
 associatedOccurrences | - 
 associatedSequences | -
@@ -55,21 +55,21 @@ associatedTaxa | -
 
 DwC term | Status
 --- | ---
-eventID | suggested
+eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | OK
-eventTime | OK
+eventDate | change
+eventTime | change
 startDayOfYear | -
 endDayOfYear | -
 year | -
 month | - 
 day | -
 verbatimEventDate | -
-habitat | suggested
+habitat | empty
 fieldNumber | -
-fieldNotes | suggested
-eventRemarks | suggested
+fieldNotes | empty
+eventRemarks | empty
 
 ## Location
 

@@ -20,10 +20,10 @@ n | Species | specificEpithet | | `?` | If provided by EOL
 n | Subspecies | infraspecificEpithet | | `?` | If provided by EOL
 n | ScientificNameAuthor | scientificNameAuthorship | | `?` | If provided by EOL
 n | IdentifiedBy | identifiedBy | | Bruno Lestrade | Identical to `recordedBy`
-n | Collector | recordedBy | Bruno Lestrade - Diveboard | Bruno Lestrade | 
-n | YearCollected | eventDate | 2005 | 2005-07-25 | Merge data into `eventDate`
-n | MonthCollected | eventDate | 7 | 2005-07-25 | Merge data into `eventDate`
-n | DayCollected | eventDate | 25 | 2005-07-25 | Merge data into `eventDate`
+y | Collector | recordedBy | Bruno Lestrade - Diveboard | Bruno Lestrade | 
+y | YearCollected | eventDate | 2005 | 2005-07-25 | Merge data into `eventDate`
+y | MonthCollected | eventDate | 7 | 2005-07-25 | Merge data into `eventDate`
+y | DayCollected | eventDate | 25 | 2005-07-25 | Merge data into `eventDate`
 n | StartTimeOfDay | eventTime | 0 | 14:03:02Z | Merge data into `eventTime`
 n | EndTimeOfDay | eventTime | 29/60 | 14:03:02Z | Merge data into `eventTime` with `/` if duration is provided
 n | ContinentOcean | higherGeographyID | #<Region:0x00000006498760> | `idem` | To what does this refer exactly?
