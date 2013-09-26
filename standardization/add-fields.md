@@ -9,11 +9,11 @@ n | locality | Cavall Bernat, Estartit & Medes Islands | Name of divespot, locat
 n | eventRemarks | Visibility poor | Remarks about the dive
 n | fieldNotes | `description of dive trip` | To be discussed: privacy issues
 n | locationRemarks | Has ship wreckage since 2009 | Remarks about the dive site
-n | type | Event | `fixed value`
+y | type | Event | `fixed value`
 n | language | en | `fixed value`
-n | rights | http://creativecommons.org/publicdomain/zero/1.0/ | `fixed value` To be discussed
-n | rightsHolder | Diveboard | `fixed value` To be discussed
-n | datasetID | `url of published dataset` | To be discussed
+y | rights | http://creativecommons.org/publicdomain/zero/1.0/ | `fixed value`
+y | rightsHolder | Diveboard | `fixed value`
+y | datasetID | http://ipt.diveboard.com/resource.do?r=diveboard-occurrences | `fixed value`
 n | datasetName | `title of published dataset`| To be discussed
 n | ownerInstitutionCode | Diveboard | 
 n | countryCode | ES | Depends on how country data are stored

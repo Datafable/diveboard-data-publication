@@ -2,12 +2,12 @@
 
 Done | Diveboard field | DwC field | Old value | New value | Remarks
 --- | --- | --- | --- | --- | ---
-n | DateLastModified | modified | 2012-12-05 17:29:50 UTC | 2012-12-05T17:29:50Z
-n | Institutioncode | institutionCode | DIVEBOARD | Diveboard | `fixed value`
-n | RecordURL | references | http://www.diveboard.com/ bruno.lestrade/DPaanH | `?` | Ideally an occurrence URL
-n | RecordID | catalogNumber | 20745099 | `idem` | Should be unique
+y | DateLastModified | modified | 2012-12-05 17:29:50 UTC | 2012-12-05T17:29:50Z
+y | Institutioncode | institutionCode | DIVEBOARD | Diveboard | `fixed value`
+y | RecordURL | references | http://www.diveboard.com/ bruno.lestrade/DPaanH | `idem` | Ideally an occurrence URL
+y | RecordID | catalogNumber | 20745099 | `idem` | Should be unique
 n | ScientificName | scientificName | Carcharhinus melanopterus (Quoy and Gaimard, 1824) | `idem` | From EOL
-n | BasisOfRecord | basisOfRecord | o | HumanObservation | `fixed value`
+y | BasisOfRecord | basisOfRecord | o | HumanObservation | `fixed value`
 n | Source | nameAccordingTo | WORMS | EOL, WORMS | How does EOL provide this value?
 n | Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com | `?` | To be discussed
 n | Kingdom | kingdom | | `?` | If provided by EOL

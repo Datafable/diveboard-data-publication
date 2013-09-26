@@ -2,19 +2,19 @@
 
 ## Root
 
-DwC term | Status |content
+DwC term | Status | Content
 --- | --- | ---
 type | OK | OK
 modified | OK | OK
 language | OK | empty
-rights | OK | empty
+rights | OK | OK
 rightsHolder | OK | OK
 accessRights | -
 bibliographicCitation | OK | empty
 references | OK | OK
 institutionID | -
 collectionID | -
-datasetID | OK | empty
+datasetID | OK | OK
 institutionCode | OK | OK
 collectionCode | -
 datasetName | OK | empty
