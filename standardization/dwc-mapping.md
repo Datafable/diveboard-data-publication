@@ -10,14 +10,14 @@ language | suggested
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | change
+bibliographicCitation | change: I would drop this field. 
 references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
 institutionCode | OK
 collectionCode | -
-datasetName | change
+datasetName | change: I propose: `Diveboard - Scuba diving citizen science`
 ownerInstitutionCode | suggested
 basisOfRecord | OK
 informationWithheld | -
@@ -28,7 +28,7 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | suggested
+occurrenceID | change: is `diveboard: 7_0_33102` an internal ID?
 catalogNumber | OK
 occurrenceRemarks | -
 recordNumber | -
