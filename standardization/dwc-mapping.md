@@ -2,8 +2,8 @@
 
 ## Root
 
-DwC term | Status
---- | ---
+DwC term | Status|
+--- | --- | --- 
 type | OK
 modified | OK
 language | suggested
@@ -73,8 +73,8 @@ eventRemarks | empty
 
 ## Location
 
-DwC term | Status
---- | ---
+DwC term | Status | remark
+--- | --- | ---
 locationID | suggested
 higherGeographyID | suggested
 higherGeography | -
@@ -107,8 +107,8 @@ verbatimSRS | -
 decimalLatitude | OK
 decimalLongitude | OK
 geodeticDatum | OK
-coordinateUncertaintyInMeters | change: add values from `coordinatePrecision` here
-coordinatePrecision | remove
+coordinateUncertaintyInMeters | OK
+coordinatePrecision | empty
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
