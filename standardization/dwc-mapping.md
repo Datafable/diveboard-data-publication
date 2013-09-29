@@ -94,7 +94,7 @@ minimumElevationInMeters | empty
 maximumElevationInMeters | empty
 verbatimDepth | -
 minimumDepthInMeters | OK
-maximumDepthInMeters | change: why are number of decimals so varied?
+maximumDepthInMeters | change: why are number of decimals so varied? | DepthComputer and mistakes
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
 locationAccordingTo | suggested
