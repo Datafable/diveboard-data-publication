@@ -6,18 +6,18 @@ DwC term | Status | remark
 --- | --- | ---
 type | OK
 modified | OK
-language | suggested | Suggest to drop
+language | suggested | `empty`
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | change: I would drop this field. | keep: no harm done
+bibliographicCitation | change: I would drop this field. | `keep`
 references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
 institutionCode | OK
 collectionCode | -
-datasetName | change: I propose: `Diveboard - Scuba diving citizen science` | agreed &proposed
+datasetName | OK
 ownerInstitutionCode | OK | www.diveboard.com
 basisOfRecord | OK
 informationWithheld | -
@@ -28,8 +28,8 @@ dynamicProperties | -
 
 DwC term | Status | remark
 --- | --- | ---
-occurrenceID | change: is `diveboard: 7_0_33102` an internal ID? | yes, shoudl be a GUID, OK for me
-catalogNumber | 'not ok' | nameAccordingTOID
+occurrenceID | OK
+catalogNumber | OK
 occurrenceRemarks | -
 recordNumber | -
 recordedBy | OK
@@ -58,8 +58,8 @@ DwC term | Status | remark
 eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | change: format as `modified`, including time | agreed and proposed
-eventTime | remove |agreed and proposed
+eventDate | OK
+eventTime | OK
 startDayOfYear | -
 endDayOfYear | -
 year | -
@@ -68,37 +68,37 @@ day | -
 verbatimEventDate | -
 habitat | empty
 fieldNumber | -
-fieldNotes | empty | something for later
-eventRemarks | empty | something for later
+fieldNotes | `empty` | something for later
+eventRemarks | `empty` | something for later
 
 ## Location
 
 DwC term | Status | remark
 --- | --- | ---
-locationID | suggested | This is not a good term, i would drop it
-higherGeographyID | suggested | This is not a good term, i would drop it
+locationID | -
+higherGeographyID | -
 higherGeography | -
-continent | empty
+continent | `empty`
 waterBody | OK
 islandGroup | -
 island | -
 country | OK
-countryCode | change: leave `BLANK` empty | shoudl be ok
+countryCode | change: leave `BLANK` empty |to check
 stateProvince | -
 county | -
-municipality | remove | not agreed
+municipality | `removed` 
 locality | change: concatenate as `locality, municipality` | I would not do this
-verbatimLocality | -
+verbatimLocality | OK | `municipality, locality` concatenated
 verbatimElevation | -
 minimumElevationInMeters | OK
 maximumElevationInMeters | OK
 verbatimDepth | -
 minimumDepthInMeters | OK
-maximumDepthInMeters | change: why are number of decimals so varied? | divecomputers?
+maximumDepthInMeters | OK | one digit after the `,`
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
-locationAccordingTo | suggested | no
-locationRemarks | empty
+locationAccordingTo | -
+locationRemarks | `empty`
 verbatimCoordinates | -
 verbatimLatitude | -
 verbatimLongitude | -
@@ -107,8 +107,8 @@ verbatimSRS | -
 decimalLatitude | OK
 decimalLongitude | OK
 geodeticDatum | OK
-coordinateUncertaintyInMeters | change: add values from `coordinatePrecision` here | was OK
-coordinatePrecision | remove | ok
+coordinateUncertaintyInMeters | OK
+coordinatePrecision | -
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
@@ -153,7 +153,7 @@ scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.| ??
+nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.| to check
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
