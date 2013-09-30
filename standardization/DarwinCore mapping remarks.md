@@ -3,7 +3,7 @@
 ## Root
 
 DwC term | Status | remark 
---- | ---
+--- | --- | ---
 type | OK
 modified | OK
 language | suggested | Suggest to drop
@@ -27,7 +27,7 @@ dynamicProperties | -
 ## Occurrence
 
 DwC term | Status | remark
---- | ---
+--- | --- | ---
 occurrenceID | change: is `diveboard: 7_0_33102` an internal ID? | yes, shoudl be a GUID, OK for me
 catalogNumber | 'not ok' | nameAccordingTOID
 occurrenceRemarks | -
