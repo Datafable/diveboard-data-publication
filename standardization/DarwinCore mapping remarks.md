@@ -18,7 +18,7 @@ datasetID | OK
 institutionCode | OK
 collectionCode | -
 datasetName | OK
-ownerInstitutionCode | OK | www.diveboard.com
+ownerInstitutionCode | OK 
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
@@ -55,7 +55,7 @@ associatedTaxa | -
 
 DwC term | Status | remark
 --- | --- | ---
-eventID | empty
+eventID | `empty`
 samplingProtocol | -
 samplingEffort | -
 eventDate | OK
@@ -66,7 +66,7 @@ year | -
 month | - 
 day | -
 verbatimEventDate | -
-habitat | empty
+habitat | `empty`
 fieldNumber | -
 fieldNotes | `empty` | something for later
 eventRemarks | `empty` | something for later
@@ -83,11 +83,11 @@ waterBody | OK
 islandGroup | -
 island | -
 country | OK
-countryCode | change: leave `BLANK` empty |to check
+countryCode | OK
 stateProvince | -
 county | -
 municipality | `removed` 
-locality | change: concatenate as `locality, municipality` | I would not do this
+locality | OK
 verbatimLocality | OK | `municipality, locality` concatenated
 verbatimElevation | -
 minimumElevationInMeters | OK
@@ -146,14 +146,14 @@ scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | empty | EOL ID | proposed
+nameAccordingToID | OK
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.| to check
+nameAccordingTo | OK
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
@@ -163,13 +163,13 @@ class | OK | EOL
 order | OK | EOL
 family | OK | EOL
 genus | OK | EOL
-subgenus | - | EOL
-specificEpithet | empty | EOL
-infraspecificEpithet | empty | EOL
+subgenus | `empty`
+specificEpithet | `empty`
+infraspecificEpithet | `empty`
 taxonRank | OK | EOL
 verbatimTaxonRank | -
-scientificNameAuthorship | empty | EOL
-vernacularName | empty | EOL
+scientificNameAuthorship | `empty`
+vernacularName | `empty`
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
