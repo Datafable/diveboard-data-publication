@@ -12,6 +12,7 @@ y | datasetID | http://ipt.diveboard.com/resource.do?r=diveboard-occurrences | `
 y | datasetName | Diveboard - Scuba diving citizen sciencet| `fixed value`
 n | ownerInstitutionCode | Diveboard | 
 y | countryCode | ES | Depends on how country data are stored
+n | verbatimLocality | Lighthouse, Dahab | 
 y | geodeticDatum | EPSG:3857 | `fixed value` if Google Maps only
 y | georeferenceSources | Google Maps | `fixed value` if Google Maps only
 y | minimumElevationInMeters | 313 | 

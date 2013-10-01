@@ -86,9 +86,9 @@ country | OK
 countryCode | OK
 stateProvince | -
 county | -
-verbatimLocality | -
 municipality | -
 locality | OK
+verbatimLocality | change: concatenate as `locality, municipality`
 verbatimElevation | -
 minimumElevationInMeters | OK
 maximumElevationInMeters | OK
