@@ -83,7 +83,7 @@ waterBody | OK
 islandGroup | -
 island | -
 country | OK
-countryCode | change: leave `BLANK` empty
+countryCode | OK
 stateProvince | -
 county | -
 municipality | remove
