@@ -97,7 +97,7 @@ minimumDepthInMeters | OK
 maximumDepthInMeters | OK
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
-locationAccordingTo | suggested
+locationAccordingTo | -
 locationRemarks | empty
 verbatimCoordinates | -
 verbatimLatitude | -
