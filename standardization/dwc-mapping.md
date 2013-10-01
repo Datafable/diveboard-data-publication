@@ -28,7 +28,7 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | change: is `diveboard: 7_0_33102` an internal ID?
+occurrenceID | OK
 catalogNumber | OK
 occurrenceRemarks | -
 recordNumber | -
