@@ -6,19 +6,19 @@ DwC term | Status|
 --- | --- | --- 
 type | OK
 modified | OK
-language | suggested
+language | empty
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | change: I would drop this field. 
+bibliographicCitation | remove 
 references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
-institutionCode | OK
+institutionCode | Change to `Diveboard`
 collectionCode | -
-datasetName | change: I propose: `Diveboard - Scuba diving citizen science`
-ownerInstitutionCode | suggested
+datasetName | OK
+ownerInstitutionCode | Change to `Diveboard`
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
@@ -28,7 +28,7 @@ dynamicProperties | -
 
 DwC term | Status
 --- | ---
-occurrenceID | change: is `diveboard: 7_0_33102` an internal ID?
+occurrenceID | OK
 catalogNumber | OK
 occurrenceRemarks | -
 recordNumber | -
@@ -58,8 +58,8 @@ DwC term | Status
 eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | change: format as `modified`, including time
-eventTime | remove
+eventDate | change: format as `2005-07-25T00:00:00Z`
+eventTime | -
 startDayOfYear | -
 endDayOfYear | -
 year | -
@@ -73,31 +73,31 @@ eventRemarks | empty
 
 ## Location
 
-DwC term | Status | remark
---- | --- | ---
-locationID | suggested
-higherGeographyID | suggested
+DwC term | Status
+--- | ---
+locationID | -
+higherGeographyID | -
 higherGeography | -
 continent | empty
 waterBody | OK
 islandGroup | -
 island | -
 country | OK
-countryCode | change: leave `BLANK` empty
+countryCode | OK
 stateProvince | -
 county | -
-municipality | remove
-locality | change: concatenate as `locality, municipality`
-verbatimLocality | -
+municipality | -
+locality | OK
+verbatimLocality | change: concatenate as `locality, municipality`
 verbatimElevation | -
-minimumElevationInMeters | empty
-maximumElevationInMeters | empty
+minimumElevationInMeters | OK
+maximumElevationInMeters | OK
 verbatimDepth | -
 minimumDepthInMeters | OK
-maximumDepthInMeters | change: why are number of decimals so varied?
+maximumDepthInMeters | OK
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
-locationAccordingTo | suggested
+locationAccordingTo | -
 locationRemarks | empty
 verbatimCoordinates | -
 verbatimLatitude | -
@@ -108,7 +108,7 @@ decimalLatitude | OK
 decimalLongitude | OK
 geodeticDatum | OK
 coordinateUncertaintyInMeters | OK
-coordinatePrecision | empty
+coordinatePrecision | -
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -
@@ -141,19 +141,19 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | empty
+taxonID | change: format to `http://eol.org/pages/24659`
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | empty
+nameAccordingToID | remove
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.
+nameAccordingTo | OK
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
@@ -162,7 +162,7 @@ phylum | OK
 class | OK
 order | OK
 family | OK
-genus | empty
+genus | OK
 subgenus | -
 specificEpithet | empty
 infraspecificEpithet | empty
