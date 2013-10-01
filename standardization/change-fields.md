@@ -28,6 +28,4 @@ y | Longitude | decimalLongitude | 34.513 | `idem` |
 y | Latitude | decimalLongitude | 28.501 | `idem` |
 y | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` |
 y | MinimumDepth | minimumDepthInMeters | 0 | `idem` | `fixed value`
-n | Temperature | - | 28.0 | `idem` | This can be provided in a `MeasurementOrFacts` extension, requires some work (this might be split in surface and bottom temp.)
-n | ObservedWeight | - | | 10.2 | Currently not recorded, to be discussed. Can be provided in `MeasurementsOrFacts` extension.
 y | MaximumDepth | maximumDepthInMeters | 12.0 | `idem` |
