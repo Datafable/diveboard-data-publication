@@ -6,7 +6,7 @@ DwC term | Status
 --- | ---
 type | OK
 modified | OK
-language | suggested
+language | empty
 rights | OK
 rightsHolder | OK
 accessRights | -

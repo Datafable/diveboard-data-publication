@@ -10,7 +10,6 @@ n | eventRemarks | Visibility poor | Remarks about the dive
 n | fieldNotes | `description of dive trip` | To be discussed: privacy issues
 n | locationRemarks | Has ship wreckage since 2009 | Remarks about the dive site
 y | type | Event | `fixed value`
-n | language | en | `fixed value`
 y | rights | http://creativecommons.org/publicdomain/zero/1.0/ | `fixed value`
 y | rightsHolder | Diveboard | `fixed value`
 y | datasetID | http://ipt.diveboard.com/resource.do?r=diveboard-occurrences | `fixed value`
