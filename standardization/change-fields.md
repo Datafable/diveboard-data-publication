@@ -26,11 +26,11 @@ y | MonthCollected | eventDate | 7 | 2005-07-25 | Merge data into `eventDate`
 y | DayCollected | eventDate | 25 | 2005-07-25 | Merge data into `eventDate`
 y | StartTimeOfDay | eventTime | 0 | 14:03:02Z | Merge data into `eventTime`
 y | EndTimeOfDay | eventTime | 29/60 | 14:03:02Z | Merge data into `eventTime` with `/` if duration is provided
-n | Country | country | Egypt | `idem` | 
-n | Longitude | decimalLongitude | 34.513 | `idem` | Are these numbers rounded?
-n | Latitude | decimalLongitude | 28.501 | `idem` | Are these numbers rounded?
+y | Country | country | Egypt | `idem` | 
+y | Longitude | decimalLongitude | 34.513 | `idem` |
+y | Latitude | decimalLongitude | 28.501 | `idem` |
 y | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` |
 y | MinimumDepth | minimumDepthInMeters | 0 | `idem` | `fixed value`
-y | MaximumDepth | maximumDepthInMeters | 12.0 | `idem` | 
 n | Temperature | - | 28.0 | `idem` | This can be provided in a `MeasurementOrFacts` extension, requires some work (this might be split in surface and bottom temp.)
 n | ObservedWeight | - | | 10.2 | Currently not recorded, to be discussed. Can be provided in `MeasurementsOrFacts` extension.
+y | MaximumDepth | maximumDepthInMeters | 12.0 | `idem` |
