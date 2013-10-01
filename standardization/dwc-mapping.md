@@ -90,11 +90,11 @@ municipality | remove
 locality | change: concatenate as `locality, municipality`
 verbatimLocality | -
 verbatimElevation | -
-minimumElevationInMeters | empty
-maximumElevationInMeters | empty
+minimumElevationInMeters | OK
+maximumElevationInMeters | OK
 verbatimDepth | -
 minimumDepthInMeters | OK
-maximumDepthInMeters | change: why are number of decimals so varied? | DepthComputer and mistakes
+maximumDepthInMeters | OK
 minimumDistanceAboveSurfaceInMeters | -
 maximumDistanceAboveSurfaceInMeters | -
 locationAccordingTo | suggested

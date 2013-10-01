@@ -20,8 +20,8 @@ n | countryCode | ES | Depends on how country data are stored
 n | locationAccordingTo | Wikipedia | Depends on how location data are stored
 y | geodeticDatum | EPSG:3857 | `fixed value` if Google Maps only
 y | georeferenceSources | Google Maps | `fixed value` if Google Maps only
-n | minimumElevationInMeters | 313 | 
-n | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
+y | minimumElevationInMeters | 313 | 
+y | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 n | taxonID | `?` | If provided by EOL
 n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
 n | taxonRank | If provided by EOL
