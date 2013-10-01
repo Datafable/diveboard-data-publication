@@ -75,8 +75,8 @@ eventRemarks | empty
 
 DwC term | Status
 --- | ---
-locationID | suggested
-higherGeographyID | suggested
+locationID | -
+higherGeographyID | -
 higherGeography | -
 continent | empty
 waterBody | OK
