@@ -141,7 +141,7 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | empty
+taxonID | change: format to `http://eol.org/pages/24659`
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
