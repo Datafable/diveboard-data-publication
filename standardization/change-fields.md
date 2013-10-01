@@ -10,15 +10,15 @@ y | ScientificName | scientificName | Carcharhinus melanopterus (Quoy and Gaimar
 y | BasisOfRecord | basisOfRecord | o | HumanObservation | `fixed value`
 n | Source | nameAccordingTo | WORMS | EOL, WORMS | How does EOL provide this value?
 n | Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com | `?` | To be discussed
-n | Kingdom | kingdom | | `?` | If provided by EOL
-n | Phylum | phylum | | `?` | If provided by EOL
-n | Class | class | | `?` | If provided by EOL
-n | Order | order | | `?` | If provided by EOL
-n | Family | family | | `?` | If provided by EOL
-n | Genus | genus | | `?` | If provided by EOL
 n | Species | specificEpithet | | `?` | If provided by EOL
 n | Subspecies | infraspecificEpithet | | `?` | If provided by EOL
 n | ScientificNameAuthor | scientificNameAuthorship | | `?` | If provided by EOL
+y | Kingdom | kingdom | | `?` | If provided by EOL
+y | Phylum | phylum | | `?` | If provided by EOL
+y | Class | class | | `?` | If provided by EOL
+y | Order | order | | `?` | If provided by EOL
+y | Family | family | | `?` | If provided by EOL
+y | Genus | genus | | `?` | If provided by EOL
 y | IdentifiedBy | identifiedBy | | Bruno Lestrade | Identical to `recordedBy`
 y | Collector | recordedBy | Bruno Lestrade - Diveboard | Bruno Lestrade | 
 y | YearCollected | eventDate | 2005 | 2005-07-25 | Merge data into `eventDate`
