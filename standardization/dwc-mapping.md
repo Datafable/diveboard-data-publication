@@ -107,8 +107,8 @@ verbatimSRS | -
 decimalLatitude | OK
 decimalLongitude | OK
 geodeticDatum | OK
-coordinateUncertaintyInMeters | change: add values from `coordinatePrecision` here
-coordinatePrecision | remove
+coordinateUncertaintyInMeters | OK
+coordinatePrecision | -
 pointRadiusSpatialFit | -
 footprintWKT | -
 footprintSRS | -

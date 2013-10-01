@@ -31,7 +31,7 @@ n | Country | country | Egypt | `idem` |
 n | Locality | locationID | #<Location:0x000000068d9c98> | `idem` | To what does this refer exactly?
 n | Longitude | decimalLongitude | 34.513 | `idem` | Are these numbers rounded?
 n | Latitude | decimalLongitude | 28.501 | `idem` | Are these numbers rounded?
-n | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` | Verify these are meters. 100m sees a good estimate for clicking on Google Maps
+y | CoordinatePrecision | coordinateUncertaintyInMeters | 100 | `idem` |
 y | MinimumDepth | minimumDepthInMeters | 0 | `idem` | `fixed value`
 y | MaximumDepth | maximumDepthInMeters | 12.0 | `idem` | 
 n | Temperature | - | 28.0 | `idem` | This can be provided in a `MeasurementOrFacts` extension, requires some work (this might be split in surface and bottom temp.)
