@@ -58,7 +58,7 @@ DwC term | Status
 eventID | empty
 samplingProtocol | -
 samplingEffort | -
-eventDate | change: format as `modified`, including time
+eventDate | change: format as `2005-07-25T00:00:00Z`
 eventTime | -
 startDayOfYear | -
 endDayOfYear | -
