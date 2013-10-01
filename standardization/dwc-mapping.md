@@ -10,7 +10,7 @@ language | empty
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | change: I would drop this field. 
+bibliographicCitation | remove 
 references | OK
 institutionID | -
 collectionID | -
