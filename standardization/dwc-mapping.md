@@ -146,7 +146,7 @@ scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | empty
+nameAccordingToID | remove
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK

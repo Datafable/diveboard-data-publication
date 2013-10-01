@@ -18,6 +18,5 @@ y | georeferenceSources | Google Maps | `fixed value` if Google Maps only
 y | minimumElevationInMeters | 313 | 
 y | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 n | taxonID | `?` | If provided by EOL
-n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
 y | taxonRank | If provided by EOL
 y | occurrenceID | diveboard:7_0_33102 | 
