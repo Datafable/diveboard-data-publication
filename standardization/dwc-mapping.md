@@ -153,7 +153,7 @@ scientificName | OK
 acceptedNameUsage | -
 parentNameUsage | -
 originalNameUsage | -
-nameAccordingTo | change: 5 records with blank `scientificName` should be empty here has well.
+nameAccordingTo | OK
 namePublishedIn | -
 namePublishedInYear | -
 higherClassification | -
@@ -166,7 +166,7 @@ genus | OK
 subgenus | -
 specificEpithet | empty
 infraspecificEpithet | empty
-taxonRank | empty
+taxonRank | OK
 verbatimTaxonRank | -
 scientificNameAuthorship | empty
 vernacularName | empty
