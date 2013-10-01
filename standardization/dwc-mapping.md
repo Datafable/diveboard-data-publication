@@ -15,10 +15,10 @@ references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
-institutionCode | OK
+institutionCode | Change to `Diveboard`
 collectionCode | -
-ownerInstitutionCode | suggested
 datasetName | OK
+ownerInstitutionCode | Change to `Diveboard`
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
