@@ -17,8 +17,8 @@ collectionID | -
 datasetID | OK
 institutionCode | OK
 collectionCode | -
-datasetName | change: I propose: `Diveboard - Scuba diving citizen science`
 ownerInstitutionCode | suggested
+datasetName | OK
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
