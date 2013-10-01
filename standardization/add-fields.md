@@ -3,12 +3,8 @@
 Done | DwC field | New value | Remarks
 --- | --- | --- | ---
 y | dateIdentified | 2005-07-25 | Similar to `eventDate`, but just date part
-n | continent | Europe | 
 y | waterBody | North Sea | 
 n | locality | Cavall Bernat, Estartit & Medes Islands | Name of divespot, location
-n | eventRemarks | Visibility poor | Remarks about the dive
-n | fieldNotes | `description of dive trip` | To be discussed: privacy issues
-n | locationRemarks | Has ship wreckage since 2009 | Remarks about the dive site
 y | type | Event | `fixed value`
 y | rights | http://creativecommons.org/publicdomain/zero/1.0/ | `fixed value`
 y | rightsHolder | Diveboard | `fixed value`
