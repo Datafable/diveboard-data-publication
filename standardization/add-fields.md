@@ -18,7 +18,6 @@ y | minimumElevationInMeters | 313 |
 y | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 n | taxonID | `?` | If provided by EOL
 n | nameAccordingToID | www.marinespecies.org | Identifier for the source, if provided by EOL
-n | vernacularName | If provided by EOL
 y | taxonRank | If provided by EOL
 y | occurrenceID | diveboard:7_0_33102 | 
 n | associatedMedia | `image-url; image-url` | To be discussed: should refer to the occurrence, not event

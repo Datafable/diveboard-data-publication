@@ -10,9 +10,6 @@ y | ScientificName | scientificName | Carcharhinus melanopterus (Quoy and Gaimar
 y | BasisOfRecord | basisOfRecord | o | HumanObservation | `fixed value`
 y | Source | nameAccordingTo | WORMS | EOL, WORMS | How does EOL provide this value?
 n | Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com | `?` | To be discussed
-n | Species | specificEpithet | | `?` | If provided by EOL
-n | Subspecies | infraspecificEpithet | | `?` | If provided by EOL
-n | ScientificNameAuthor | scientificNameAuthorship | | `?` | If provided by EOL
 y | Kingdom | kingdom | | `?` | If provided by EOL
 y | Phylum | phylum | | `?` | If provided by EOL
 y | Class | class | | `?` | If provided by EOL
