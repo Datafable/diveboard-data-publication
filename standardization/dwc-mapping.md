@@ -59,7 +59,7 @@ eventID | empty
 samplingProtocol | -
 samplingEffort | -
 eventDate | change: format as `modified`, including time
-eventTime | remove
+eventTime | -
 startDayOfYear | -
 endDayOfYear | -
 year | -
