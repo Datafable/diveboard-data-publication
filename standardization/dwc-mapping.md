@@ -78,7 +78,7 @@ DwC term | Status
 locationID | -
 higherGeographyID | -
 higherGeography | -
-continent | empty
+continent | -
 waterBody | OK
 islandGroup | -
 island | -
@@ -164,12 +164,12 @@ order | OK
 family | OK
 genus | OK
 subgenus | -
-specificEpithet | empty
-infraspecificEpithet | empty
+specificEpithet | -
+infraspecificEpithet | -
 taxonRank | OK
 verbatimTaxonRank | -
-scientificNameAuthorship | empty
-vernacularName | empty
+scientificNameAuthorship | -
+vernacularName | -
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
