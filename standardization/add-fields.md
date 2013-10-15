@@ -20,3 +20,4 @@ y | maximumElevationInMeters | 313 | Identical to `minimumElevationInMeters`
 y | taxonID | http://eol.org/pages/24659 | Provided by EOL
 y | taxonRank | Provided by EOL
 y | occurrenceID | diveboard:7_0_33102 | 
+n | samplingProtocol | `citizen science scuba dive observation` | 
