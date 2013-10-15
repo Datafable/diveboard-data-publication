@@ -10,7 +10,7 @@ language | empty
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | remove 
+bibliographicCitation | - 
 references | OK
 institutionID | -
 collectionID | -
@@ -58,7 +58,7 @@ DwC term | Status
 eventID | empty
 samplingProtocol | change to `citizen science scuba dive observation`
 samplingEffort | -
-eventDate | change: format as `2005-07-25T00:00:00Z`
+eventDate | OK
 eventTime | -
 startDayOfYear | -
 endDayOfYear | -
@@ -88,7 +88,7 @@ stateProvince | -
 county | -
 municipality | -
 locality | OK
-verbatimLocality | change: concatenate as `locality, municipality`
+verbatimLocality | OK
 verbatimElevation | -
 minimumElevationInMeters | OK
 maximumElevationInMeters | OK
@@ -141,12 +141,12 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | change: format to `http://eol.org/pages/24659`
+taxonID | OK
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | remove
+nameAccordingToID | -
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK
