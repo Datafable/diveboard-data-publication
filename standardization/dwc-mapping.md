@@ -15,10 +15,10 @@ references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
-institutionCode | Change to `Diveboard`
+institutionCode | OK
 collectionCode | -
 datasetName | OK
-ownerInstitutionCode | Change to `Diveboard`
+ownerInstitutionCode | OK
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
@@ -56,7 +56,7 @@ associatedTaxa | -
 DwC term | Status
 --- | ---
 eventID | empty
-samplingProtocol | change to `citizen science scuba dive observation`
+samplingProtocol | OK
 samplingEffort | -
 eventDate | OK
 eventTime | -
