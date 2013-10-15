@@ -56,7 +56,7 @@ associatedTaxa | -
 DwC term | Status
 --- | ---
 eventID | empty
-samplingProtocol | -
+samplingProtocol | change to `citizen science scuba dive observation`
 samplingEffort | -
 eventDate | change: format as `2005-07-25T00:00:00Z`
 eventTime | -
