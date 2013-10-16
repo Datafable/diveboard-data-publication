@@ -1,10 +1,4 @@
-# Standardization of Diveboard data to DwC-A
-
-## Introduction
-
-Diveboard data are currently provided in the [OBIS schema](http://www.iobis.org/node/304). The [Darwin Core standard](http://rs.tdwg.org/dwc/terms/index.htm) however is a more uniformal and widely adopted way to share biodiversity data. It also also allows to share the data as a standardized data package: the [Darwin Core archive](http://www.gbif.org/informatics/standards-and-tools/publishing-data/data-standards/darwin-core-archives/).
-
-In this directory, we provide instructions how to reformat the Diveboard data from its current OBIS view to Darwin Core.
+# Standardization
 
 ## Changes to be made
 
