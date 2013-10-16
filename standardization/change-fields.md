@@ -9,7 +9,6 @@ y | RecordID | catalogNumber | 20745099 | `idem` | Should be unique
 y | ScientificName | scientificName | Carcharhinus melanopterus (Quoy and Gaimard, 1824) | `idem` | From EOL
 y | BasisOfRecord | basisOfRecord | o | HumanObservation | `fixed value`
 y | Source | nameAccordingTo | WORMS | EOL, WORMS | How does EOL provide this value?
-n | Citation | bibliographicCitation | Bruno Lestrade 2005-07-25 through Diveboard : http://www.diveboard.com | `?` | To be discussed
 y | Kingdom | kingdom | | `?` | If provided by EOL
 y | Phylum | phylum | | `?` | If provided by EOL
 y | Class | class | | `?` | If provided by EOL

@@ -10,15 +10,15 @@ language | empty
 rights | OK
 rightsHolder | OK
 accessRights | -
-bibliographicCitation | remove 
+bibliographicCitation | - 
 references | OK
 institutionID | -
 collectionID | -
 datasetID | OK
-institutionCode | Change to `Diveboard`
+institutionCode | OK
 collectionCode | -
 datasetName | OK
-ownerInstitutionCode | Change to `Diveboard`
+ownerInstitutionCode | OK
 basisOfRecord | OK
 informationWithheld | -
 dataGeneralizations | -
@@ -56,9 +56,9 @@ associatedTaxa | -
 DwC term | Status
 --- | ---
 eventID | empty
-samplingProtocol | -
+samplingProtocol | OK
 samplingEffort | -
-eventDate | change: format as `2005-07-25T00:00:00Z`
+eventDate | OK
 eventTime | -
 startDayOfYear | -
 endDayOfYear | -
@@ -78,7 +78,7 @@ DwC term | Status
 locationID | -
 higherGeographyID | -
 higherGeography | -
-continent | empty
+continent | -
 waterBody | OK
 islandGroup | -
 island | -
@@ -88,7 +88,7 @@ stateProvince | -
 county | -
 municipality | -
 locality | OK
-verbatimLocality | change: concatenate as `locality, municipality`
+verbatimLocality | OK
 verbatimElevation | -
 minimumElevationInMeters | OK
 maximumElevationInMeters | OK
@@ -141,12 +141,12 @@ n/a
 
 DwC term | Status
 --- | ---
-taxonID | change: format to `http://eol.org/pages/24659`
+taxonID | OK
 scientificNameID | -
 acceptedNameUsageID | - 
 parentNameUsageID | -
 originalNameUsageID | -
-nameAccordingToID | remove
+nameAccordingToID | -
 namePublishedInID | -
 taxonConceptID | -
 scientificName | OK
@@ -164,12 +164,12 @@ order | OK
 family | OK
 genus | OK
 subgenus | -
-specificEpithet | empty
-infraspecificEpithet | empty
+specificEpithet | -
+infraspecificEpithet | -
 taxonRank | OK
 verbatimTaxonRank | -
-scientificNameAuthorship | empty
-vernacularName | empty
+scientificNameAuthorship | -
+vernacularName | -
 nomenclaturalCode | -
 taxonomicStatus | -
 nomenclaturalStatus | -
