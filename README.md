@@ -10,7 +10,7 @@ We want to help the Diveboard team to:
 
 1. Format their data according to the [Darwin Core standard](http://rs.tdwg.org/dwc/terms/index.htm), a widely adopted way to share biodiversity data.
 2. Provide useful metadata for the dataset.
-3. Publish the dataset as standardized, open data>
+3. Publish the dataset as standardized, open data.
 4. Register the dataset with the [Global Biodiversity Information Facility (GBIF)](http://www.gbif.org), so it can be discovered and used by anyone.
 
 Mainly step one is [documented](/standardization) in this repository.
