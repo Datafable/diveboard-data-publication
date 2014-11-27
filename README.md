@@ -1,4 +1,4 @@
-# Diveboard data publication to GBIF
+# Diveboard data publication and paper
 
 ## Rationale
 
